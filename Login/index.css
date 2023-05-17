@@ -1,0 +1,57 @@
+body {
+    background-image: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);
+    
+}
+
+.container {
+    margin: auto;
+    background-color: #fff;
+    height: 310px;
+    width: 320px;
+    margin-top: 200px;
+    border: 1px solid;
+}
+
+.c-pointer {
+    cursor: pointer;
+}
+.header{
+    text-align: center;
+    padding-top: 5px;
+}
+.cancel-btn{
+    float: right;
+    padding: 0px 9px;
+    font-weight: bold;
+    margin-right: 4px;
+}
+.form-item{
+    text-align: center;
+}
+.text-email{
+    margin-left: -135px;
+}
+.text-password{
+    margin-left: -170px;
+}
+.text-email-input{
+    padding: 4px 37px;
+}
+.btn-login{
+    padding: 4px 100px;
+    background-image: repeating-linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);
+    color: white;
+    margin-top: 10px;
+    text-transform: uppercase;
+    border-radius: 115px;
+}
+.text-forgot{
+    margin-left: -120px;
+    color: skyblue;
+}
+.signup-link{
+    margin-top: 25px;
+}
+.form-label{
+    display: block;
+}
