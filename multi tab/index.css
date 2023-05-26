@@ -1,0 +1,38 @@
+.box {
+    margin: 200px 200px;
+    position: relative;
+}
+
+.one {
+    border: 1px solid red;
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+    left: 50px;
+    top: 50px;
+
+    position: absolute;
+}
+
+.two {
+    border: 1px solid red;
+    background-color: orange;
+    width: 400px;
+    height: 400px;
+    left: 90px;
+    top: 90px;
+    position: absolute;
+
+
+}
+
+.three {
+    border: 1px solid red;
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    left: 120px;
+    top: 120px;
+    position: absolute;
+
+}
