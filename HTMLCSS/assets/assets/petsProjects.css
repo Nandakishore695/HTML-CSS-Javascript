@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Belanosima', sans-serif;
+}
+
+header {
+    background-color: #d6cc09;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.text-white {
+    color: white;
+}
+
+.section-space {
+    padding: 50px 100px;
+}
+
+.text-menu {
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+
+.text-menu:hover,
+.active {
+    color: black;
+    background-color: #c2c1a9;
+}
+
+/* 1banner*/
+.text-banner {
+    background-color: #f5eb27;
+    display: flex;
+    align-items: center;
+}
+
+.banner-text {
+    flex: 1;
+}
+
+.banner-text h1 {
+    font-size: 72px;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+.img-petBlack {
+    width: 300px;
+}
+
+.banner-text p {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+.btn-contactus {
+    background-color: #00bec9;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+.btn-ourservice {
+    margin: 8px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.btn-ourservice:hover {
+    background-color: #00bec9;
+    border: 1px solid #00bec9;
+}
+
+.text-title {
+    font-size: 70px;
+}
+
+
+/* 2banner */
+.text-banner2 {
+    background-color: white;
+    padding: 80px 100px;
+    display: flex;
+    align-items: center;
+}
+
+.banner2-text {
+    flex: 1;
+}
+
+.banner2-text h1 {
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+.banner2-text p {
+    font-size: 30px;
+    line-height: 34px;
+}
+
+.btn-ourservice2 {
+    margin: 8px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #f5eb27;
+
+}
+
+.img-backman {
+    width: 300px;
+}
+
+
+/* 3banner */
+.text-banner3 {
+    padding: 50px 100px;
+    background-color: #f5eb27;
+    text-align: center;
+}
+
+.doctor-title h1 {
+    font-size: 65px;
+    font-weight: 600;
+}
+
+.doctor-title p {
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: -30px;
+    padding-bottom: 50px;
+}
+
+.doctor-img {
+    display: inline-block;
+}
+
+.pet-doctor {
+    width: 339px;
+    border: 2px solid white;
+    margin-left: 8px;
+}
+
+.doctor-img h1 {
+    font-size: 40px;
+}
+
+.doctor-img p {
+    font-size: 25px;
+
+}
+
+/**/
+
+.text-banner4 {
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+.text-banner4 .banner4-text h1 {
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+.banner4-text p {
+    font-size: 30px;
+    line-height: 34px;
+
+}
+
+.text-right {
+    text-align: right;
+    flex: 1;
+}
+
+.video-play {
+    width: 420px;
+    height: 315px;
+    z-index: 1;
+}
+
+.box {
+    background-color: #d6cc09;
+    width: 438px;
+    height: 208px;
+    position: absolute;
+    right: 105px;
+    top: 870px;
+}

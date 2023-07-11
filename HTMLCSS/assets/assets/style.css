@@ -1,0 +1,55 @@
+.activa-img {
+    width: 300px;
+}
+
+.text-header {
+    color: red;
+    font-size: 50px;
+}
+
+#Text-msg {
+    color: green;
+    font-size: 40px;
+    /* font-weight:bold; */
+}
+
+a {
+    text-decoration: overline;
+}
+.video-clip{
+    text-decoration: underline;
+
+}
+
+.text-highlight {
+    font-weight: bold;
+}
+
+.text-upper {
+    text-transform: uppercase;
+    color: brown;
+
+}
+
+.text-lower {
+    text-transform: lowercase;
+    color: blueviolet;
+
+}
+
+.text-capital {
+    text-transform: capitalize;
+    color: orange;
+}
+
+.about-us {
+    text-decoration: line-through;
+}
+
+.blog-section {
+    text-decoration: none;
+}
+
+.text-content {
+    line-height: 40px;
+}
