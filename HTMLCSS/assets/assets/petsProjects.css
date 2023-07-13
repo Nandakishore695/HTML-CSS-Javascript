@@ -13,6 +13,17 @@ header {
     padding: 10px 50px;
 }
 
+header input {
+    font-size: 25px;
+    background-color: #f5eb27;
+    border: 0px solid #f5eb27;
+    padding: 10px;
+}
+
+header input::placeholder {
+    color: #ffffff;
+}
+
 .text-white {
     color: white;
 }
@@ -25,7 +36,8 @@ header {
     color: #ffffff;
     font-size: 20px;
     text-decoration: none;
-    padding: 10px 10px;
+    padding: 10px 20px;
+    margin-left: 25px;
 }
 
 .text-menu:hover,
@@ -52,12 +64,14 @@ header {
 }
 
 .img-petBlack {
-    width: 300px;
+    width: 350px;
+    filter: drop-shadow(2px 2px 2px gray);
 }
 
 .banner-text p {
     font-size: 30px;
     line-height: 34px;
+    margin-top: -25px;
 }
 
 .btn-contactus {
@@ -65,7 +79,7 @@ header {
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
-    margin: 8px;
+    font-size: 25px;
 }
 
 .btn-ourservice {
@@ -74,6 +88,7 @@ header {
     border: 1px solid white;
     padding: 10px 20px;
     border-radius: 5px;
+    font-size: 25px;
 }
 
 .btn-ourservice:hover {
@@ -107,16 +122,18 @@ header {
 .banner2-text p {
     font-size: 30px;
     line-height: 34px;
+    margin-top: -25px;
 }
 
 .btn-ourservice2 {
-    margin: 8px;
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
     background-color: #f5eb27;
-
+    font-size: 25px;
 }
+
+
 
 .img-backman {
     width: 300px;
@@ -150,6 +167,7 @@ header {
     width: 339px;
     border: 2px solid white;
     margin-left: 8px;
+    border-radius: 5px;
 }
 
 .doctor-img h1 {
@@ -158,7 +176,6 @@ header {
 
 .doctor-img p {
     font-size: 25px;
-
 }
 
 /**/
@@ -178,7 +195,7 @@ header {
 .banner4-text p {
     font-size: 30px;
     line-height: 34px;
-
+    margin-top: -25px;
 }
 
 .text-right {
@@ -188,15 +205,157 @@ header {
 
 .video-play {
     width: 420px;
-    height: 315px;
-    z-index: 1;
+    height: 450px;
 }
 
-.box {
-    background-color: #d6cc09;
-    width: 438px;
-    height: 208px;
-    position: absolute;
-    right: 105px;
-    top: 870px;
+/*banner5*/
+.dog-banner5 {
+    background-color: #f5eb27;
+    text-align: center;
+}
+
+.text-bannertitle h1 {
+    font-size: 65px;
+    font-weight: 600;
+
+}
+
+.text-bannertitle p {
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: -30px;
+    padding-bottom: 50px;
+}
+
+.banner-dogCz {
+    display: inline-block;
+}
+
+.dog-cz {
+    width: 330px;
+    border: 2px solid white;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+.banner-dogCz p {
+    font-size: 30px;
+}
+
+.banner-dogCz p del {
+    margin-right: 20px;
+}
+
+.banner-dogCz a {
+    background-color: #00bec9;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+/*banner6*/
+.text-banner6 {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.doctors-title h1 {
+    font-size: 65px;
+    font-weight: 600;
+}
+
+.doctors-title p {
+    font-size: 30px;
+    line-height: 34px;
+    margin-top: -30px;
+    padding-bottom: 50px;
+}
+
+.doctors-images {
+    width: 330px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.table-height {
+    height: 400px;
+    overflow: auto;
+}
+
+/*banner7*/
+.text-banner7 {
+    background-color: #f5eb27;
+    text-align: center;
+}
+
+.client-deatils {
+    display: inline-block;
+
+}
+
+.client-deatils h1 {
+    font-size: 45px;
+    margin: 35px;
+}
+
+.client-deatils h2 {
+    font-size: 35px;
+    margin-right: 75px;
+}
+
+.recent-dog {
+    display: inline-block;
+}
+
+.recent-dog h1 {
+    font-size: 30px;
+    padding: 0px 30px;
+    text-align: left;
+}
+
+.text-date {
+    text-transform: uppercase;
+    text-align: left;
+    color: #00bec9;
+    padding: 0px 30px;
+}
+
+.text-description {
+    text-align: justify;
+    padding: 0px 24px;
+}
+
+.read-more {
+    text-align: left;
+    color: #00bec9;
+    padding: 0px 24px;
+}
+.shadow-set{
+
+box-shadow: 0 0 2px  0px #282a2d;
+
+}
+.doctors-recent{
+    width: 350px;
+    border-radius: 1px;
+}
+
+/*footer*/
+.text-footer{
+    background-color: #3b3c3d;
+}
+.li-block{
+    display: inline-block;
+    margin-right: 150px;
+}
+footer input {
+    font-size: 15px;
+    background-color: #f5eb27;
+    border: 0px solid #f5eb27;
+    padding: 10px;
+}
+.text-titlef{
+    text-align: right;
 }
