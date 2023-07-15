@@ -1,0 +1,7 @@
+.form-page{
+    padding: 20px 20px;
+    background-color: gray;
+}
+.form-page div{
+    display: block;
+}

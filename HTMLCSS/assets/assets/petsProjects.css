@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
-
+.icons{
+    background-image: url(../imges/icons.svg);
+    height: 23px;
+    width: 28px;
+    display: inline-block;
+}
+.fb-icon{
+    background-position: -4px -218px
+}
+.tw-icon{
+    background-position: -66px -218px;
+}
+.li-icon{
+    background-position: -126px -220px;
+}
 body {
     margin: 0;
     font-family: 'Belanosima', sans-serif;
@@ -139,7 +153,14 @@ header input::placeholder {
     width: 300px;
 }
 
-
+.p-box{
+    height: 125px;
+    width: 145px;
+    background-color: #d6cc09;
+    position: relative;
+    top: 183px;
+    left: 125px;
+}
 /* 3banner */
 .text-banner3 {
     padding: 50px 100px;
@@ -206,6 +227,15 @@ header input::placeholder {
 .video-play {
     width: 420px;
     height: 450px;
+    z-index: 1;
+}
+.p-box1{
+    height: 125px;
+    width: 145px;
+    background-color: #d6cc09;
+    position: relative;
+    top: 183px;
+    left: -120px;
 }
 
 /*banner5*/
@@ -283,11 +313,20 @@ header input::placeholder {
     height: 400px;
     overflow: auto;
 }
+.instagram-icon{
+    background-position: -96px -219px;
+}
 
 /*banner7*/
 .text-banner7 {
-    background-color: #f5eb27;
-    text-align: center;
+    background-image: url(../imges/bg.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .client-deatils {
@@ -297,7 +336,7 @@ header input::placeholder {
 
 .client-deatils h1 {
     font-size: 45px;
-    margin: 35px;
+    margin-right: 115px;
 }
 
 .client-deatils h2 {
@@ -331,31 +370,36 @@ header input::placeholder {
     text-align: left;
     color: #00bec9;
     padding: 0px 24px;
+    text-decoration: none;
+    margin-left: -220px;
 }
-.shadow-set{
 
-box-shadow: 0 0 2px  0px #282a2d;
-
+.shadow-set {
+    box-shadow: 2px 2px 3px 0px gray;
 }
-.doctors-recent{
+
+.doctors-recent {
     width: 350px;
     border-radius: 1px;
 }
 
 /*footer*/
-.text-footer{
+.text-footer {
     background-color: #3b3c3d;
 }
-.li-block{
+
+.li-block {
     display: inline-block;
     margin-right: 150px;
 }
+
 footer input {
     font-size: 15px;
     background-color: #f5eb27;
     border: 0px solid #f5eb27;
     padding: 10px;
 }
-.text-titlef{
+
+.text-titlef {
     text-align: right;
 }
