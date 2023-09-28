@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {margin: 0px;font-family: Roboto; height: 100%;}
+
+/* common for all */
+h2 h1 {margin: 0px;}
+.text-white {color: #ffffff !important;}
+.c-pointer{ cursor: pointer; }
+.sm-icon span{cursor: pointer;}
+/* header layout  */
+.container {padding: 10px 30px;}
+.header-section {display: flex;justify-content: space-between;}
+.dottllogo {width: 101px;}
+.profile-logo{margin-left: -50px;}
+.menulist {margin-right: 250px;}
+.menu {text-decoration: none;color: #000;font-family: Roboto;font-size: 16px;font-style: normal;font-weight: 600;line-height: 24px;margin-right: 40px;}
+.active {color: #D60000;font-size: 16px;font-style: normal;font-weight: 600;line-height: normal;}
+.authlogout {width: 153px; height: 42px;border-radius: 33px;border: 1px solid #D60000;background: #D60000;}
+.walletconnect { color: #FFF; font-family: Roboto; font-size: 14px; font-style: normal; font-weight: 600; line-height: normal; width: 85.723px; height: 19.297px; flex-shrink: 0; margin-right: 40px;}
+.notificationcount {background: #000; width: 23px; height: 20px; border-radius: 50px; margin-left: 125px; position: absolute; margin-top: -36px;}
+.transactioncount {display: flex; justify-content: space-around; align-items: center;}
+
+/* banner porject */
+.bannerproject {border-radius: 15px; background: linear-gradient(180deg, #D9CAF5 0%, #EBEDD1 52.08%, #FFD7D7 100%); display: flex;}
+.project-detail {padding-left: 30px; margin-top: 80px;}
+img.no-select {user-select: none; pointer-events: none;}
+.project-detail h1 {color: #D60000; font-size: 42px; font-family: Roboto; margin: 8px 0px;}
+.project-detail h2 {color: #000;font-family: Roboto;font-size: 42px;font-style: normal;font-weight: 400;margin: 8px 0px;}
+.project-sale {display: flex; justify-content: space-around; margin-right: 20px;}
+.project-sale div h3 {color: #565656;}
+.project-sale div h4 { margin-top: -15px;}
+.plan-buy {
+    border-radius: 28px;
+    width: 206px;
+    height: 42px;
+    background-color: #000;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.carousel-icons{display: flex; gap: 10px; margin: 36px 0px;}
+.carousel-icon {
+    width: 15px;
+    /* Set the width and height to create a circular shape */
+    height: 15px;
+    background-color: gray;
+    /* Set the background color to gray */
+    border-radius: 50%;
+    /* Create as circular shape using border-radius */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    /* Adjust the font size as needed for your content or icon */
+    color: white;
+    /* Set the text color to white or any color that contrasts with the gray background */
+    display: inline-block;
+    margin-top: 70px;
+}
+
+.bg-active {
+    background-color: #D60000;
+}
+
+.project-status {
+    border-radius: 4px;
+    background: #21B66F;
+    padding: 3px;
+
+}
+
+.project-status-circle {
+    background-color: #ffffff;
+    border-radius: 4px;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+.banner-review {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+
+.banner-review div {
+    border-left: 2px solid gray;
+    padding: 20px;
+}
+
+.banner-review div h1 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.banner-review div p {
+    color: #D60000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: lowercase;
+}
+
+/*Featured Banner */
+.featured-container {
+    padding: 50px 30px;
+}
+
+.featured {text-align: center;}
+.featured h1 {color: #000;font-family: Roboto;font-size: 32px;font-style: normal;font-weight: 600;line-height: normal;}
+.featured span {color: #D60000;font-family: Roboto;font-size: 32px;font-style: normal;font-weight: 600;line-height: normal;}
+.featured-time{align-items: center;display: flex;justify-content: center;}
+.featured h1,p {margin: 0;padding: 0;}
+.featured div p {display: inline-block;}
+.featured-caroucel {display: flex;padding: 30px 0px; margin: 0px -16px; flex-wrap: wrap;}
+.featured-caroucel div {width: 270px;height: 130px;background-color: black;border-radius: 15px;margin: 0px 14px; margin-bottom: 10px;}
+.xl {font-family: Roboto;font-size: 36px;}
+.featured-caroucel-review p {color: rgba(255, 255, 255, 0.60);}
+.featured-caroucel-detail {display: flex;align-items: center;}
+.featured-caroucel-review {height: fit-content !important;}
+.list-dt {display: flex;justify-content: center; margin-top: 10px;}
+.launchpad-dt {width: 124px;background-color: #F5F5F5;border-radius: 15px; margin: 0px 5px;}
+.launchpad-dts{display: block;margin-top: 15px;}
+.launchpad-dts p{text-align: center;}
+.count-ptr{position: relative; align-items: center; padding: 15px;}
+.launchpad-gnum{color: #15AB3D;text-align: center;font-family: Roboto;font-size: 16px;font-weight: 600;line-height: normal;}
+.launchpad-onum{color: #CD7B00;text-align: center;font-family: Roboto;font-size: 16px;font-style: normal;font-weight: 600;line-height: normal;}
+.launchpad-pnum{color: #D60000;;text-align: center;font-family: Roboto;font-size: 16px;font-style: normal;font-weight: 600;line-height: normal;}
+.launchpad-gCl{fill: #AEECBF;padding: 10px 15px;background: #AEECBF;border-radius: 50px; display: inline-block;}
+.launchpad-oCl{fill: #AEECBF;padding: 10px 15px;background: #F2CC93;border-radius: 50px;position: absolute; z-index: 2;  left: 41px; }
+.launchpad-pCl{fill: #AEECBF;padding: 10px 15px;background: #EEA5A5;;border-radius: 50px; position:absolute; z-index: 3; left: 69px;}
+
+.project-title{display: flex; justify-content: space-between; padding: 0px 11px;}
+.project-ivo{color: #D60000;}
+.project-view{ background-color: #ffffff; border: none; color: #D60000;}
+.project-list{margin: 0px; display: flex; flex-wrap: wrap;}
+.project-cards{border-radius: 16px;background: #ffffff; width: 365px; margin: 8px; height: 590px; box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25); padding: 10px;} 
+.project-header{display: flex;justify-content: space-between;}
+.project-img{width: 100%}
+.project-discription{height: 90px;}
+.cast-crew{border-radius: 15px; background: #F5F5F5; width: 345.97px; height: 41.169px; padding: 10px;}
+.cast-names{display: flex;}
+.project-total{display: flex; justify-content: space-between; padding: 10px;}
+.project-price{display: flex; justify-content: space-between; padding: 5px 10px;}
+.public-status{border-radius: 15px; background: #000; width: 345.97px; height: fit-content; padding: 10px; display: flex; justify-content: space-between;filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.25));}  
+.public-time{display: flex; justify-content: space-between;}
+
+.blockchain-step{ display: flex; align-items: center; }
+.blockchain-question {font-size: 45px; }
+.blockchain-step-screen1 div{max-width: 250px;}
+.blockchain-step-screen1{padding: 70px 1px; display: flex; justify-content: space-between; flex-wrap: wrap;  padding: 70px 1px; gap:30px;}
+.setp-title{margin: 0;}
+.steps-title{text-transform:uppercase}
+.step-description{width: auto;  padding: 50px;}
+
+.apply-now{background: linear-gradient(180deg, #D9CAF5 0%, #EBEDD1 52.08%, #FFD7D7 100%); width: auto;height: 217px; display: flex; justify-content: space-around; align-items: center;}
+.apply-btn{background-color :#D60000; width: 164px; height: 42px; border-radius: 16px ; border:0;}
+.apply-title{font-size: 32px; font-weight: 600;}
+
+.footer-bar{display: flex; justify-content: space-between;}
+.paly-store{display: flex;}
+.store-title{display: flex;}
+.copy-right{text-align: center;}
+/*ICONS*/
+.icons {background-image: url(../images/sprit-icons.svg);display: inline-block;}
+.lth-icon {background-position: -172px -34px; height: 38px;width: 40px;}
+.gth-icon {background-position: -207px  -34px; height: 38px;width: 40px;}
+.stauts-green-icon{background-position: -42px -66px;height: 18px;width: 18px; }
+.currency-icon{background-position: -24px -66px;height: 18px;width: 18px; }
+.syb-icon{background-position: -6px  -66px;height: 18px;width: 18px; }
+.fb-icon{background-position: -70px -35px; height: 35px;width: 40px;}
+.inst-icon{background-position:-41px -35px; height: 35px;width: 32px;}
+.tel-icon{background-position:-8px -35px; height: 35px;width: 32px;}
+.disc-icon{background-position:-105px -35px; height: 35px;width: 32px;}
+.inter-icon{background-position:-139px  -35px; height: 35px;width: 32px;}
+.purchase-wallet{background-position: -66px   -101px;height: 57px;width: 54px;}
+.purchase-token{background-position: -8px -101px;height: 57px;width: 54px;}
+.purchase-kyc{background-position: -192px  -101px;height: 57px;width: 54px;}
+.purchase-set{background-position: -130px   -101px;height: 57px;width: 54px;}
+.fb-org-icon{background-position: -70px -150px; height: 35px; width: 30px;}
+.inst-org-icon{background-position: -38px -150px; height: 35px; width: 30px;}
+.tel-org-icon{background-position: -6px -150px; height: 35px; width: 30px;}
+.sdic-org-icon{background-position: -100px -150px; height: 35px; width: 30px;}
+.inter-org-icon{background-position: -130px  -150px; height: 35px; width: 30px;}
+.gpaly-icon{background-position: -243px -32px;height: 35px;width: 45px;}
+.apaly-icon{background-position: -279px -36px; height: 35px; width: 38px;}
+
+/*MEDIA QUERY*/
+@media (max-width:768px) {
+    .bannerproject {display: block;}
+    img.no-select {width: 100%;}
+    .banner-review {display: block;}
+    .header-section {display: block;}
+    .menulist {display: none;}
+    .banner-review div {border-left: none;border-bottom: 2px solid gray;}
+    .dottllogo {width: 60px;}
+    .featured-caroucel {display: block;}
+    .featured-caroucel div {margin: 15px 10px; width: auto;}
+    .carousel-icon {margin: 20px 17px;width: 15px;height: 15px;}
+    .featured-time {    display: flex;}
+    .list-dt{display: block;} 
+    .launchpad-dt{width: 100%;}
+    .count-ptr{margin-left: 100px;}
+    .project-list{ display: block;   }
+    .project-cards{height: fit-content;display: block;  width: auto;}
+    .cast-crew{width: 93%;}
+    .public-status {width: 93%;}
+    .blockchain-step{display: block;}
+    .step-description{padding: 10px; margin-left: 0px;}
+    .blockchain-question {padding: 10px; font-size: 38px;}
+    .apply-now{display: block; padding: 10px;}
+    .apply-btn{margin: 20px 0px; width: 100px;}
+    .btn-applynow{text-align: right}
+    .footer-bar{display: block;}
+    .paly-store{margin-left: -10px; gap: 20px;}
+}
