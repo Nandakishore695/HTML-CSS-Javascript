@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&family=Dancing+Script:wght@600&display=swap');
+
+body{margin: 0;}
+/* start header & section-plate */
+.bg-cl{background-color: #f5d107;}
+.bg-header-h{height: 50px;padding: 35px 50px; }
+.d-flex{display: flex;justify-content: space-between; align-items: center;}
+.w-section{width: 50%;text-align: center;}
+.menu-bar{font-size: 15px; display: flex;     justify-content: end; margin-bottom: 10px;}
+.menu-bar p{margin: 0; font-weight: 400; text-align: right;  }
+.menu-bar h3{margin: 0; text-align: right; font-weight: 900; font-size: 35px;}
+.menu-bars{font-size: 25px;}
+.menu-bars a{margin-left: 30px;color: black;text-decoration: none;text-transform: uppercase;}
+.week-offer{font-size: 28px; font-family: 'Cabin Sketch', sans-serif; text-transform: uppercase; display: flex; align-items: center; text-align: center; justify-content: center;}
+.week-offer div p{font-size: 65px;margin: 0; margin-left: 15px}
+.txt-food h2{font-family: 'Dancing Script', cursive;font-size: 60px;margin: 0px;}
+.txt-food h1{font-family: 'Cabin Sketch', sans-serif;font-size: 105px;margin: 0px; text-transform: uppercase;}
+.txt-food h3{text-transform: uppercase;font-size: 30px; margin: 0px;}
+.txt-food hr{margin: 25px 130px;border-color: black;}
+.btn-order{background-color: #f5d107;font-weight: 900;font-size: 14px;width: 150px;height: 50px; border-radius: 5px;}
+.btn-order:hover{background-color: #f5d107;color: white; cursor: pointer;}
+.bg-cl-table{background-color:darkgray;}
+.table-student th{background-color: black; color: white;}
+.table-student tbody tr:nth-child(even) td{background-color: white;}
+.table-student tbody tr:nth-child(3) td:nth-child(3){background-color: pink;}
+/* end header & section-plate */
+
+.d-flex-section{display: flex;justify-content: space-around; align-items: center;}
+.txt-choose{text-align: center;}
+.txt-choose h1{font-size: 65px;  font-family: 'Cabin Sketch', sans-serif; margin: 35px 0px 0px 0px;}
+.txt-choose p{margin-bottom: 45px;}
+.txt-choose h3{margin-top: 100px;margin-bottom: 0px; font-size: 40px;}
+.btn-order-item{background-color: #f5d107;font-weight: 900;font-size: 14px;width: 150px;height: 50px; border-radius: 5px; border-color: #f5d107;cursor: pointer;}
+.items-li{text-align: center;}
+
+
+@media (min-width: 768px) {
+    /* .d-flex{
+        display: none;
+    }
+    .bg-header-h{
+        height: 10px;
+     
+    }
+    .menu-bar{
+        display: none;
+    } */
+}
