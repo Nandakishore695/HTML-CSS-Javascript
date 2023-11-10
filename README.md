@@ -120,17 +120,12 @@ height:-
 
 
 
-
-
-
-18.What is a meta tag? ok
+**18.What is a meta tag?**
 A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 19.What is the difference between inline and block-level elements? ok
 Inline elements do not start with a new line and only take up as much width as necessary. 
 Block-level elements always start with a new line and take up the full width.
 
 
-
-
-20.What is the use of an iframe tag?  ok
+**20.What is the use of an iframe tag?**
 iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
