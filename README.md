@@ -1,6 +1,5 @@
 # HTML-CSS-Demo-Templete-For-Beginners 
 
-Preparation Html Questions
 **1.What is HTML?**
 HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 Websites: - A website is a collection of related web pages.
@@ -90,15 +89,12 @@ href attribute is used to specify the URL of the hyperlink.It tells the browser 
 URL (Uniform Resource  Locator) 
 
 
-
-
-15.What is the purpose of the src attribute in the <img> tag? ok
+**15.What is the purpose of the src attribute in the <img> tag?**
 src attribute specifies the source file of the image.
 
 
 
-
-16.What are some new tags introduced in HTML5? ok
+**16.What are some new tags introduced in HTML5?**
 Some new tags in HTML5 include:
 <header> - Defines a header section
 <footer> - Defines a footer section
@@ -110,7 +106,7 @@ Some new tags in HTML5 include:
 <video> and <audio> - For embedding media content
 
 
-17.What are the attributes in html? ok
+**17.What are the attributes in html?**
 style :- Specifies the inline CSS style for an element.
 href :- Specifies the URL (web address) for a link.
 src :- Specifies the URL (web address) for an image.
