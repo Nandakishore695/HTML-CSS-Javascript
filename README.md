@@ -182,38 +182,6 @@ HTTPS It helps to improve search rankings
 **22.What are the Inline and Block-level tags?**
 **Here are the inline tags**
 <a>       	  Anchor
-<strong> 	    Bold
-<em>      	  Italic
-<img>     	  Image
-<button> 	    Button
-<input>   	  Field
-<br>       	  Break
-<label>   	  Field Name
-<span>   	    span
-<sub>    	    Subscript
-<sup>    	    Superscript
-<textarea>    Description
-
-**Here are the block-level tags**
-<header>	      Header
-<footer>	      Footer
-<section>	      Section
-<form>		      User form
-<h1> to <h6>	  Heading
-<hr>	   	      Horizontal 
-<p> 		        Paragraph
-<ol>		        Order list
-<ul>		        Unorder list
-<li>  		      List item
-<dl>		        Definition list
-<dt>		        Definition terms
-<dd>		        Definition description 
-<table>	        Grid
-<div>		        Division
-
-**24.What are the Inline and Block-level tags?**
-**Here are the inline tags**
-<a>       	  Anchor
 <strong> 	  Bold
 <em>      	  Italic
 <img>     	  Image
@@ -240,6 +208,6 @@ HTTPS It helps to improve search rankings
 <dl>		  Definition list
 <dt>		  Definition terms
 <dd>		  Definition description 
-<table>	  Grid
+<table>	     Grid
 <div>		  Division
 
