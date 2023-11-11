@@ -167,3 +167,49 @@ HTML 5 Introduces native support for multimedia with <audio> and <video> tags, r
 **4.Input Types:**
 HTML4: Limited input types available.
 HTML5: Introduces new input types like date, time, month, etc.
+
+**23.what is the difference between http and https?**
+The main difference between these two terms http and https.
+**HTTP** (Hypertext Transfer Protocol):
+HTTP is a protocol used for transferring data over the internet.
+It is not secure because the data transferred between the client's browser and the website is not encrypted
+HTTP is fast compared to HTTPS
+  
+**HTTPS** (Hypertext Transfer Protocol Secure):
+HTTPS is a secure version of HTTP.
+It uses SSL (Secure Sockets Layer) protocols to encrypt the data transmitted between the client's browser and the website's server.
+This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
+HTTPS It helps to improve search rankings
+
+
+**24.What are the Inline and Block-level tags?**
+**Here are the inline tags**
+<a>       	  Anchor
+<strong> 	    Bold
+<em>      	  Italic
+<img>     	  Image
+<button> 	    Button
+<input>   	  Field
+<br>       	  Break
+<label>   	  Field Name
+<span>   	    span
+<sub>    	    Subscript
+<sup>    	    Superscript
+<textarea>    Description
+
+**Here are the block-level tags**
+<header>	      Header
+<footer>	      Footer
+<section>	      Section
+<form>		      User form
+<h1> to <h6>	  Heading
+<hr>	   	      Horizontal 
+<p> 		        Paragraph
+<ol>		        Order list
+<ul>		        Unorder list
+<li>  		      List item
+<dl>		        Definition list
+<dt>		        Definition terms
+<dd>		        Definition description 
+<table>	        Grid
+<div>		        Division
