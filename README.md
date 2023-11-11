@@ -2,13 +2,10 @@
 
 **1.What is HTML?**
 HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
-Websites: - A website is a collection of related web pages.
-Web Pages: - A web page is a single document Html.
-Web Applications: - A web application (or web app) is a software program or interactive tool that runs in a web browser.
 
 **2.Difference between link tag <link> and anchor tag <a>?**
-Link tag It is used for linking the external resources file. This tag is placed within the head tag.
-Anchor tag It is used for linking to navigate one web page to another web page. This tag is placed within the body tag. and these links are clickable.
+**Link tag** It is used for linking the external resources file. This tag is placed within the head tag.
+**Anchor tag** It is used for linking to navigate one web page to another web page. This tag is placed within the body tag. and these links are clickable.
 
 **3.What are the new input types in HTML5?**
 New input types offered by HTML5 
@@ -89,12 +86,12 @@ href attribute is used to specify the URL of the hyperlink.It tells the browser 
 URL (Uniform Resource  Locator) 
 
 
-**15.What is the purpose of the src attribute in the <img> tag?**
+**14.What is the purpose of the src attribute in the <img> tag?**
 src attribute specifies the source file of the image.
 
 
 
-**16.What are some new tags introduced in HTML5?**
+**15.What are some new tags introduced in HTML5?**
 Some new tags in HTML5 include:
 <header> - Defines a header section
 <footer> - Defines a footer section
@@ -106,7 +103,7 @@ Some new tags in HTML5 include:
 <video> and <audio> - For embedding media content
 
 
-**17.What are the attributes in html?**
+**16.What are the attributes in html?**
 style :- Specifies the inline CSS style for an element.
 href :- Specifies the URL (web address) for a link.
 src :- Specifies the URL (web address) for an image.
@@ -119,18 +116,18 @@ width
 height:-
 
 
-**18.What is a meta tag?**
+**17.What is a meta tag?**
 A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 19.What is the difference between inline and block-level elements? ok
 Inline elements do not start with a new line and only take up as much width as necessary. 
 Block-level elements always start with a new line and take up the full width.
 
 
-**20.What is the use of an iframe tag?**
+**18.What is the use of an iframe tag?**
 iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
 
 
-**21.What is the difference between HTML and XHTML?**
+**19.What is the difference between HTML and XHTML?**
 HTML and XHTML Both essential languages for creating web pages.The main difference between them syntax and structure.
 1.HTML is Hypertext Markup Language
 1.XHTML is Extensible Hypertext Markup Language.
@@ -147,11 +144,11 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 5. HTML No hard rule on structures of the elements. EX- <p><b> The difference
 5. XHTML Structure of the elements should be followed. EX- <p></p>
 
-6. HTML Attributes have quotes as optional. EX-<font color=#ff0000>.
-6. XHTML Attributes have quotes mandatory. EX- <font color=#ff0000?>.
+6. HTML Attributes have quotes as optional.
+6. XHTML Attributes have quotes mandatory.
 
 
-**22.Different between html4 and html5?**
+**20.Different between html4 and html5?**
 **1.Doctype Declaration:**
 HTML 4 we have to declare a little lengthy code of doctype. 
 HTML 5 we have to  declare  in short code of doctype <!DOCTYPE html>
@@ -168,7 +165,7 @@ HTML 5 Introduces native support for multimedia with <audio> and <video> tags, r
 HTML4: Limited input types available.
 HTML5: Introduces new input types like date, time, month, etc.
 
-**23.what is the difference between http and https?**
+**21.what is the difference between http and https?**
 The main difference between these two terms http and https.
 **HTTP** (Hypertext Transfer Protocol):
 HTTP is a protocol used for transferring data over the internet.
@@ -182,7 +179,7 @@ This encryption helps protect sensitive information like passwords, credit card 
 HTTPS It helps to improve search rankings
 
 
-**24.What are the Inline and Block-level tags?**
+**22.What are the Inline and Block-level tags?**
 **Here are the inline tags**
 <a>       	  Anchor
 <strong> 	    Bold
