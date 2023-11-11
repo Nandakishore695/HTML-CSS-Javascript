@@ -208,6 +208,6 @@ HTTPS It helps to improve search rankings
 <dl>		  Definition list
 <dt>		  Definition terms
 <dd>		  Definition description 
-<table>	     Grid
+<table>	          Grid
 <div>		  Division
 
