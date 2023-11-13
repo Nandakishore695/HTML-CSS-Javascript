@@ -120,18 +120,17 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - 2.HTML is not a case-sensitive language.
 - 2.XHTML is a case-sensitive language.
 
-- 3. HTML is An application of SGML.
-- 3. XHTML is An application of XML.
+- 3.HTML is An application of SGML.
+- 3.XHTML is An application of XML.
 
-- 4. HTML Can function properly without a closing tag.. EX- <br> <p> <p>.
-- 4. XHTML Can’t function properly without being closed. EX- <br/>. <p></p>.
+- 4.HTML Can function properly without a closing tag.. EX- <br> <p> <p>.
+- 4.XHTML Can’t function properly without being closed. EX- <br/>. <p></p>.
 
-- 5. HTML No hard rule on structures of the elements. EX- <p><b> The difference
-- 5. XHTML Structure of the elements should be followed. EX- <p></p>
+- 5.HTML No hard rule on structures of the elements. EX- <p><b> The difference
+- 5.XHTML Structure of the elements should be followed. EX- <p></p>
 
-- 6. HTML Attributes have quotes as optional.
-- 6. XHTML Attributes have quotes mandatory.
-
+- 6.HTML Attributes have quotes as optional.
+- 6.XHTML Attributes have quotes mandatory.
 
 **22.Different between html4 and html5?**
 **1.Doctype Declaration:**
