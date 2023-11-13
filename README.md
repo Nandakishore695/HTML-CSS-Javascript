@@ -123,11 +123,11 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - 3.HTML is An application of SGML.
 - 3.XHTML is An application of XML.
 
-- 4.HTML Can function properly without a closing tag.. EX-<br> <p> <p>.
-- 4.XHTML Can’t function properly without being closed. EX-<br/>. <p></p>.
+- 4.HTML Can function properly without a closing tag.
+- 4.XHTML Can’t function properly without being closed.
 
-- 5.HTML No hard rule on structures of the elements. EX-<p><b> The difference
-- 5.XHTML Structure of the elements should be followed. EX-<p></p>
+- 5.HTML No hard rule on structures of the elements.
+- 5.XHTML Structure of the elements should be followed.
 
 - 6.HTML Attributes have quotes as optional.
 - 6.XHTML Attributes have quotes mandatory.
@@ -139,7 +139,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 
 **2.Semantic Elements:**
 - HTML 4 we need to specify a name for the div element.
-- HTML 5 Introduces semantic elements like <section>, <article>, <nav>, <header>, <footer>, etc., which provides a more meaningful way to structure content.
+- HTML 5 Introduces semantic elements like section, article, nav, header, footer, etc., which provides a more meaningful way to structure content.
 
 **3.Multimedia Support:**
 - HTML 4 Relying on third-party plugins like Flash for multimedia content.
@@ -149,9 +149,10 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - HTML4: Limited input types available.
 - HTML5: Introduces new input types like date, time, month, etc.
 
-**21.what is the difference between http and https?**
+**23.what is the difference between http and https?**
 
 The main difference between these two terms http and https.
+
 **HTTP** (Hypertext Transfer Protocol):
 - HTTP is a protocol used for transferring data over the internet.
 - It is not secure because the data transferred between the client's browser and the website is not encrypted
@@ -163,10 +164,10 @@ The main difference between these two terms http and https.
 - This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
 - HTTPS It helps to improve search rankings
 
+**24.What are the Inline and Block-level tags?**
 
-**22.What are the Inline and Block-level tags?**
 **Here are the inline tags**
-<a>       	  Anchor
+Anchor      
 <strong> 	  Bold
 <em>      	  Italic
 <img>     	  Image
