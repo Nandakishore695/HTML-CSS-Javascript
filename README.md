@@ -32,7 +32,7 @@ There are 3 types of list
 - HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
 
 **7.How many ways to write css in HTML?**
-There are three ways to add CSS to HTML documents :
+-There are three ways to add CSS to HTML documents :
 -Inline 
 -Internal 
 -External
