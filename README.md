@@ -1,4 +1,4 @@
-# HTML-CSS-Interview Question & Answer
+# HTML Interview Question & Answer
 
 **1.What is HTML?**
 - HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
@@ -107,11 +107,11 @@ Some new tags in HTML5 include:
 - Inline elements do not start with a new line and only take up as much width as necessary. 
 - Block-level elements always start with a new line and take up the full width.
 
-**1.What is the use of an iframe tag?**
+**20.What is the use of an iframe tag?**
 - iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
 
 
-**19.What is the difference between HTML and XHTML?**
+**21.What is the difference between HTML and XHTML?**
 
 HTML and XHTML Both essential languages for creating web pages.The main difference between them syntax and structure.
 - 1.HTML is Hypertext Markup Language
@@ -123,45 +123,46 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - 3. HTML is An application of SGML.
 - 3. XHTML is An application of XML.
 
-4. HTML Can function properly without a closing tag.. EX- <br> <p> <p>.
-4. XHTML Can’t function properly without being closed. EX- <br/>. <p></p>.
+- 4. HTML Can function properly without a closing tag.. EX- <br> <p> <p>.
+- 4. XHTML Can’t function properly without being closed. EX- <br/>. <p></p>.
 
-5. HTML No hard rule on structures of the elements. EX- <p><b> The difference
-5. XHTML Structure of the elements should be followed. EX- <p></p>
+- 5. HTML No hard rule on structures of the elements. EX- <p><b> The difference
+- 5. XHTML Structure of the elements should be followed. EX- <p></p>
 
-6. HTML Attributes have quotes as optional.
-6. XHTML Attributes have quotes mandatory.
+- 6. HTML Attributes have quotes as optional.
+- 6. XHTML Attributes have quotes mandatory.
 
 
-**20.Different between html4 and html5?**
+**22.Different between html4 and html5?**
 **1.Doctype Declaration:**
-HTML 4 we have to declare a little lengthy code of doctype. 
-HTML 5 we have to  declare  in short code of doctype <!DOCTYPE html>
+- HTML 4 we have to declare a little lengthy code of doctype. 
+- HTML 5 we have to  declare  in short code of doctype <!DOCTYPE html>
 
 **2.Semantic Elements:**
-HTML 4 we need to specify a name for the div element.
-HTML 5 Introduces semantic elements like <section>, <article>, <nav>, <header>, <footer>, etc., which provides a more meaningful way to structure content.
+- HTML 4 we need to specify a name for the div element.
+- HTML 5 Introduces semantic elements like <section>, <article>, <nav>, <header>, <footer>, etc., which provides a more meaningful way to structure content.
 
 **3.Multimedia Support:**
-HTML 4 Relying on third-party plugins like Flash for multimedia content.
-HTML 5 Introduces native support for multimedia with <audio> and <video> tags, reducing the need for third-party plugins.
+- HTML 4 Relying on third-party plugins like Flash for multimedia content.
+- HTML 5 Introduces native support for multimedia with <audio> and <video> tags, reducing the need for third-party plugins.
 
 **4.Input Types:**
-HTML4: Limited input types available.
-HTML5: Introduces new input types like date, time, month, etc.
+- HTML4: Limited input types available.
+- HTML5: Introduces new input types like date, time, month, etc.
 
 **21.what is the difference between http and https?**
+
 The main difference between these two terms http and https.
 **HTTP** (Hypertext Transfer Protocol):
-HTTP is a protocol used for transferring data over the internet.
-It is not secure because the data transferred between the client's browser and the website is not encrypted
-HTTP is fast compared to HTTPS
+- HTTP is a protocol used for transferring data over the internet.
+- It is not secure because the data transferred between the client's browser and the website is not encrypted
+- HTTP is fast compared to HTTPS
   
 **HTTPS** (Hypertext Transfer Protocol Secure):
-HTTPS is a secure version of HTTP.
-It uses SSL (Secure Sockets Layer) protocols to encrypt the data transmitted between the client's browser and the website's server.
-This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
-HTTPS It helps to improve search rankings
+- HTTPS is a secure version of HTTP.
+- It uses SSL (Secure Sockets Layer) protocols to encrypt the data transmitted between the client's browser and the website's server.
+- This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
+- HTTPS It helps to improve search rankings
 
 
 **22.What are the Inline and Block-level tags?**
