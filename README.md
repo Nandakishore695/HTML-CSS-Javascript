@@ -36,27 +36,27 @@ There are 3 types of list
 **7.How many ways to write css in HTML?**
 
 There are three ways to add CSS to HTML documents 
--Inline 
--Internal 
--External
+- Inline 
+- Internal 
+- External
 
 **8. What is doctype in HTML?**
 
 Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
--Versions: - 5 <!DOCTYPE html />
--Versions: - 4 <!DOCTYPE HTML PUBLIC >
+- Versions: - 5 <!DOCTYPE html />
+- Versions: - 4 <!DOCTYPE HTML PUBLIC >
 
 
 **9.What is dom in HTML?**
--DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of Objects. 
+- DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of Objects. 
 
 
 **10.What are the various formatting tags in HTML5?**
--sub <sub></sub>  
--sup <sup></sup> 
--del  <del></del> :in html 5 for underline
--strong :in html 5 for bold
--em :in html 5 for italic
+- sub <sub></sub>  
+- sup <sup></sup> 
+- del  <del></del> :in html 5 for underline
+- strong :in html 5 for bold
+- em :in html 5 for italic
 
 **11.What are the root tags in html?**
 There are some root tags. Without including these root tags in HTML we can’t create web pages.
