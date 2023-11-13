@@ -9,56 +9,50 @@
 
 **3.What are the new input types in HTML5?**
 New input types offered by HTML5 
-type=”week”
-type=”month”
-type=”time”
-type=”datetime”
-type=”datetime-local”
-type=”color”
-type=”search”
-type=”range”
-type=”url”
+- type=”week”
+- type=”month”
+- type=”time”
+- type=”datetime”
+- type=”datetime-local”
+- type=”color”
+- type=”search”
+- type=”range”
+- type=”url”
 
 **4.What are the different types of lists in HTML?**
 There are 3 types of list  
-Ordered list <ol></ol>
-Unordered list <ul></ul>
-Definition list <dl> <dt> definition term</dt>  <dd>definition  description</dd> </dl>
-Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
-
-On the other hand an unordered list displays a list of items without a specific order, and each item is marked with a bullet point.
-Definition lists are lists having each list item with a title as well as a description. There can also be multiple descriptions for each of the list items.
+- Ordered list <ol></ol> :- Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
+- Unordered list <ul></ul> :- On the other hand an unordered list displays a list of items without a specific order, and each item is marked with a bullet point.
+- Definition list <dl> <dt> definition term</dt>  <dd>definition  description</dd> </dl> :- Definition lists are lists having each list item with a title as well as a description. There can also be multiple descriptions for each of the list items.
 
 **5.What is a marquee in HTML?**
-A marquee tag is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
+- A marquee tag is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
 
 **6.What is the difference between HTML and CSS?**
-HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
-
+- HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
 
 **7.How many ways to write css in HTML?**
 There are three ways to add CSS to HTML documents :
-Inline 
-Internal 
-External
-
+-Inline 
+-Internal 
+-External
 
 **8. What is doctype in HTML?**
-Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
-Versions: - 5 <!DOCTYPE html />
-Versions: - 4 <!DOCTYPE HTML PUBLIC >
+-Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
+-Versions: - 5 <!DOCTYPE html />
+-Versions: - 4 <!DOCTYPE HTML PUBLIC >
 
 
 **9.What is dom in HTML?**
-DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of Objects. 
+-DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of Objects. 
 
 
 **10.What are the various formatting tags in HTML5?**
-sub <sub></sub>  
-sup <sup></sup> 
-del  <del></del> :in html 5 for underline
-strong :in html 5 for bold
-em :in html 5 for italic
+-sub <sub></sub>  
+-sup <sup></sup> 
+-del  <del></del> :in html 5 for underline
+-strong :in html 5 for bold
+-em :in html 5 for italic
 
 **11.What are the root tags in html?**
 There are some root tags. Without including these root tags in HTML we can’t create web pages.
