@@ -59,12 +59,14 @@ Doctype  stands for Document Type.It is a way to give  “information” to the 
 - em :in html 5 for italic
 
 **11.What are the root tags in html?**
+
 There are some root tags. Without including these root tags in HTML we can’t create web pages.
-<html></html>
-<head></head>
-<body></body>
+- <html></html>
+- <head></head>
+- <body></body>
 
 **12.What is the basic structure of an HTML document?**
+
 <!DOCTYPE html>
 <html>
   <head>
