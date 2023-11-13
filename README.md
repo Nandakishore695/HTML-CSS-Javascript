@@ -21,6 +21,7 @@ New input types offered by HTML5
 - type=”url”
 
 **4.What are the different types of lists in HTML?**
+
 There are 3 types of list  
 - Ordered list  :- Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
 - Unordered list :- On the other hand an unordered list displays a list of items without a specific order, and each item is marked with a bullet point.
@@ -33,12 +34,14 @@ There are 3 types of list
 - HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
 
 **7.How many ways to write css in HTML?**
+
 There are three ways to add CSS to HTML documents 
 -Inline 
 -Internal 
 -External
 
 **8. What is doctype in HTML?**
+
 Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
 -Versions: - 5 <!DOCTYPE html />
 -Versions: - 4 <!DOCTYPE HTML PUBLIC >
