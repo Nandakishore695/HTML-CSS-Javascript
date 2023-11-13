@@ -65,76 +65,63 @@ There are some root tags. Without including these root tags in HTML we can’t c
 - head <head></head>
 - body <body></body>
 
-**13.What is the difference between an ID and a class in HTML?**
+**12.What is the difference between an ID and a class in HTML?**
 - An ID is used to identify a unique element on a web page, while a class is used to identify a group of elements.
 
-**14.What is the purpose of the href attribute in the <a> tag?**
+**13.What is the purpose of the href attribute in the <a> tag?**
 - href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked. 
 URL (Uniform Resource  Locator) 
 
-
 **14.What is the purpose of the src attribute in the <img> tag?**
-src attribute specifies the source file of the image.
-
-**12.What is the basic structure of an HTML document?**
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page Title</title>
-  </head>
-<body>
-  <h1>Heading 1</h1>
-  <p>Paragraph</p>
-</body>
-</html>
+- src attribute specifies the source file of the image.
 
 **15.What are some new tags introduced in HTML5?**
-Some new tags in HTML5 include:
-<header> - Defines a header section
-<footer> - Defines a footer section
-<nav> - Defines a navigation section
-<article> - Defines an article
-<section> - Defines a section of content
-<main> - Specifies the main content section
-<aside> - Defines content aside from the main content
-<video> and <audio> - For embedding media content
 
+Some new tags in HTML5 include:
+- header
+- footer
+- section
+- nav
+- article
+- main
+- aside
+- video
+- audio
 
 **16.What are the attributes in html?**
-style :- Specifies the inline CSS style for an element.
-href :- Specifies the URL (web address) for a link.
-src :- Specifies the URL (web address) for an image.
-alt :- Specifies an alternative style for an image.
-class :- 
-Id:-
-type:-
-value:-
-width
-height:-
-
+- style 
+- href 
+- src 
+- alt 
+- class 
+- Id
+- type
+- value
+- width
+- height
 
 **17.What is a meta tag?**
-A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
-19.What is the difference between inline and block-level elements? ok
-Inline elements do not start with a new line and only take up as much width as necessary. 
-Block-level elements always start with a new line and take up the full width.
+- A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 
+**19.What is the difference between inline and block-level elements?**
+- Inline elements do not start with a new line and only take up as much width as necessary. 
+- Block-level elements always start with a new line and take up the full width.
 
-**18.What is the use of an iframe tag?**
-iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
+**1.What is the use of an iframe tag?**
+- iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
 
 
 **19.What is the difference between HTML and XHTML?**
+
 HTML and XHTML Both essential languages for creating web pages.The main difference between them syntax and structure.
-1.HTML is Hypertext Markup Language
-1.XHTML is Extensible Hypertext Markup Language.
+- 1.HTML is Hypertext Markup Language
+- 1.XHTML is Extensible Hypertext Markup Language.
 
-2.HTML is not a case-sensitive language.
-2.XHTML is a case-sensitive language.
+- 2.HTML is not a case-sensitive language.
+- 2.XHTML is a case-sensitive language.
 
-3. HTML is An application of SGML.
-3. XHTML is An application of XML.
+- 3. HTML is An application of SGML.
+- 3. XHTML is An application of XML.
 
 4. HTML Can function properly without a closing tag.. EX- <br> <p> <p>.
 4. XHTML Can’t function properly without being closed. EX- <br/>. <p></p>.
@@ -208,4 +195,15 @@ HTTPS It helps to improve search rankings
 <dd>		  Definition description 
 <table>	          Grid
 <div>		  Division
+**12.What is the basic structure of an HTML document?**
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+<body>
+  <h1>Heading 1</h1>
+  <p>Paragraph</p>
+</body>
+</html>
