@@ -32,13 +32,13 @@ There are 3 types of list
 - HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
 
 **7.How many ways to write css in HTML?**
--There are three ways to add CSS to HTML documents :
+**There are three ways to add CSS to HTML documents :**
 -Inline 
 -Internal 
 -External
 
 **8. What is doctype in HTML?**
--Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
+**Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.**
 -Versions: - 5 <!DOCTYPE html />
 -Versions: - 4 <!DOCTYPE HTML PUBLIC >
 
