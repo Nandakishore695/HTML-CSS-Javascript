@@ -199,13 +199,5 @@ Here are the inline tags
   
 **25.What is the basic structure of an HTML document?**
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page Title</title>
-  </head>
-<body>
-  <h1>Heading 1</h1>
-  <p>Paragraph</p>
-</body>
-</html>
+![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/e496b060-fcdb-4467-b549-ee74b1d6bbca)
+
