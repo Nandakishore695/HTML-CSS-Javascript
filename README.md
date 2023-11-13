@@ -1,7 +1,7 @@
 # HTML-CSS-Interview Question & Answer
 
-**1.What is HTML?**
-HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
+##1.What is HTML?
+- HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
 **2.Difference between link tag <link> and anchor tag <a>?**
 **Link tag** It is used for linking the external resources file. This tag is placed within the head tag.
