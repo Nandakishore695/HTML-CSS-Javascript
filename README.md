@@ -173,29 +173,29 @@ Here are the inline tags
 - Image
 - Button
 - Field
-- <br>       	  Break
-<label>   	  Field Name
-<span>   	  span
-<sub>    	  Subscript
-<sup>    	  Superscript
-<textarea>        Description
+- Break
+- Field Name
+- Span
+- Subscript
+- Superscript
+- textarea
 
 **Here are the block-level tags**
-<header>	  Header
-<footer>	  Footer
-<section>	  Section
-<form>		  User form
-<h1> to <h6>	  Heading
-<hr>	   	  Horizontal 
-<p> 		  Paragraph
-<ol>		  Order list
-<ul>		  Unorder list
-<li>  		  List item
-<dl>		  Definition list
-<dt>		  Definition terms
-<dd>		  Definition description 
-<table>	          Grid
-<div>		  Division
+- Header
+- Footer
+- Section
+- Form
+- Heading1 to Heading6
+- Horizontal 
+- Paragraph
+- Order list
+- Unorder list
+- List item
+- Definition list
+- Definition terms
+- Definition description 
+- table
+- Division
   
 **25.What is the basic structure of an HTML document?**
 
