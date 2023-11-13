@@ -166,13 +166,13 @@ The main difference between these two terms http and https.
 
 **24.What are the Inline and Block-level tags?**
 
-**Here are the inline tags**
+Here are the inline tags
 Anchor      
-<strong> 	  Bold
-<em>      	  Italic
-<img>     	  Image
-<button> 	  Button
-<input>   	  Field
+Bold
+Italic
+Image
+Button
+Field
 <br>       	  Break
 <label>   	  Field Name
 <span>   	  span
@@ -196,7 +196,8 @@ Anchor
 <dd>		  Definition description 
 <table>	          Grid
 <div>		  Division
-**12.What is the basic structure of an HTML document?**
+  
+**25.What is the basic structure of an HTML document?**
 
 <!DOCTYPE html>
 <html>
