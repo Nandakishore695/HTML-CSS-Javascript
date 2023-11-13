@@ -201,3 +201,7 @@ Here are the inline tags
 
 ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/e496b060-fcdb-4467-b549-ee74b1d6bbca)
 
+**26.What is the use of the target attribute in the <link> tag?**
+- _blank: It opens the link in a new window.
+- _self: It opens in the same window.
+
