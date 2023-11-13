@@ -61,9 +61,20 @@ Doctype  stands for Document Type.It is a way to give  “information” to the 
 **11.What are the root tags in html?**
 
 There are some root tags. Without including these root tags in HTML we can’t create web pages.
-- <html></html>
-- <head></head>
-- <body></body>
+- html <html></html>
+- head <head></head>
+- body <body></body>
+
+**13.What is the difference between an ID and a class in HTML?**
+- An ID is used to identify a unique element on a web page, while a class is used to identify a group of elements.
+
+**14.What is the purpose of the href attribute in the <a> tag?**
+- href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked. 
+URL (Uniform Resource  Locator) 
+
+
+**14.What is the purpose of the src attribute in the <img> tag?**
+src attribute specifies the source file of the image.
 
 **12.What is the basic structure of an HTML document?**
 
@@ -77,19 +88,6 @@ There are some root tags. Without including these root tags in HTML we can’t c
   <p>Paragraph</p>
 </body>
 </html>
-
-
-**13.What is the difference between an ID and a class in HTML?**
-An ID is used to identify a unique element on a web page, while a class is used to identify a group of elements.
- 14.What is the purpose of the href attribute in the <a> tag? ok
-href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked. 
-URL (Uniform Resource  Locator) 
-
-
-**14.What is the purpose of the src attribute in the <img> tag?**
-src attribute specifies the source file of the image.
-
-
 
 **15.What are some new tags introduced in HTML5?**
 Some new tags in HTML5 include:
