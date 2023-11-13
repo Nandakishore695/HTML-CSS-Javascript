@@ -8,6 +8,7 @@
 - Anchor tag :- It is used for linking to navigate one web page to another web page. This tag is placed within the body tag. and these links are clickable.
 
 **3.What are the new input types in HTML5?**
+
 New input types offered by HTML5 
 - type=”week”
 - type=”month”
