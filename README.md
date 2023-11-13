@@ -167,13 +167,13 @@ The main difference between these two terms http and https.
 **24.What are the Inline and Block-level tags?**
 
 Here are the inline tags
-Anchor      
-Bold
-Italic
-Image
-Button
-Field
-<br>       	  Break
+- Anchor      
+- Bold
+- Italic
+- Image
+- Button
+- Field
+- <br>       	  Break
 <label>   	  Field Name
 <span>   	  span
 <sub>    	  Subscript
