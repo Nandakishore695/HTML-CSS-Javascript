@@ -205,3 +205,14 @@ Here are the inline tags
 - _blank: It opens the link in a new window.
 - _self: It opens in the same window.
 
+**27.What are HTML Entities?**
+
+On a webpage to display some special characters are reserved like
+- &lt; for <(less than)
+- &gt; for <(greater than)
+- &copy; for <(copyright right)
+- &reg; for ®
+- &trade; for (™)
+
+**28.It is possible to change an inline element into a block level element?**
+- Yes, it is possible by using css properties display: block; 
