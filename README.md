@@ -217,4 +217,32 @@ On a webpage to display some special characters are reserved like
 
 
 **28.It is possible to change an inline element into a block level element?**
-- Yes, it is possible by using css properties display: block; 
+- Yes, it is possible by using css properties display: block;
+
+**29.What is a manifest file in HTML5?**
+- A Manifest file is a simple text file that tells the browser what to cache and what not to cache. In offline and online mode.
+  
+**There are three sections of a Manifest file:**
+- **CACHE** - Files listed here are cached after they are downloaded for the first time.
+- **NETWORK** - Files listed here require a connection to the server, and are never cached.
+- **FALLBACK** - Files listed here specify fallback pages if a page is inaccessible.
+
+**30.Explain the concept of web storage in HTML5?**
+
+- web applications can store data locally within the user's browser. 
+Before HTML5, application data had to be stored in cookies, 
+Web storage is more secure, and large amounts of data can be stored locally, without affecting website performance.
+
+**There 2 object :-**
+- **LocalStorage-** for multiple sessions with no expiration date.
+- **sessionStorage-** for single session(data is lost when browser is closed)
+  
+**Example:-**
+- windows.localstorage.setItem(key,value);
+- value=windows.localstorage.getItem(key);
+- windows.localstorage.removeItem(key)
+
+- windows.sessionstorage.setItem(key,value);
+- value=windows.sessionstorage.getItem(key);
+- windows.sessionstorage.removeItem(key
+
