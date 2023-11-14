@@ -211,8 +211,10 @@ On a webpage to display some special characters are reserved like
 - &lt; for <(less than)
 - &gt; for <(greater than)
 - &copy; for <(copyright right)
-- &reg; for ®
-- &trade; for (™)
+- &reg; for (Register)
+- &trade; for (Trade Mark)
+- ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/42cfd9b2-2da2-4caf-a441-a7ae0a9963b2)
+
 
 **28.It is possible to change an inline element into a block level element?**
 - Yes, it is possible by using css properties display: block; 
