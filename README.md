@@ -229,9 +229,9 @@ On a webpage to display some special characters are reserved like
 
 **30.Explain the concept of web storage in HTML5?**
 
-- web applications can store data locally within the user's browser. 
-Before HTML5, application data had to be stored in cookies, 
-Web storage is more secure, and large amounts of data can be stored locally, without affecting website performance.
+- web applications can store data locally within the client browser. 
+- Before HTML5 version, application data had to be stored in cookies.
+- Web storage is more secure, and large amounts of data can be stored locally, without affecting website performance.
 
 **There 2 object :-**
 - **LocalStorage-** for multiple sessions with no expiration date.
