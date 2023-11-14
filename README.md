@@ -234,8 +234,8 @@ On a webpage to display some special characters are reserved like
 - Web storage is more secure, and large amounts of data can be stored locally, without affecting website performance.
 
 **There 2 object :-**
-- **LocalStorage-** for multiple sessions with no expiration date.
-- **sessionStorage-** for single session(data is lost when browser is closed)
+- **LocalStorage-** for multiple sessions with no expired date.
+- **sessionStorage-** for single session(data is lost when browser is closed).
   
 **Example:-**
 - windows.localstorage.setItem(key,value);
