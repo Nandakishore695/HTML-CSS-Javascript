@@ -247,10 +247,18 @@ On a webpage to display some special characters are reserved like
 - windows.sessionstorage.removeItem(key
 
 # CSS Interview Questions and Answers
-**1.It is possible to change an inline element into a block level element?**
+**1.What is CSS?**
+
+- CSS stands for Cascading Style Sheets. It is a style sheet language used for describing the look and formatting of a document written in HTML 
+
+**2.Explain the difference between margin and padding?**
+
+- Margin is the space outside the border of an element, while padding is the space inside the border of an element. 
+
+**3.It is possible to change an inline element into a block level element?**
 - Yes, it is possible by using css properties display: block; 
 
-**2.What are CSS backgrounds, list the properties?**
+**4.What are CSS backgrounds, list the properties?**
 
 used to define the background effects for elements.
 
@@ -261,7 +269,7 @@ used to define the background effects for elements.
 - background-attachment:
 - background-position:
 
-**3. What are the different types of Selectors in CSS?**
+**5.What are the different types of Selectors in CSS?**
 
 - Universal Selector:
 - Element Type Selector:
