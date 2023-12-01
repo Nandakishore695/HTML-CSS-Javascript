@@ -101,7 +101,7 @@ Some new tags in HTML5 include:
 - height
 
 **17.What is a meta tag?**
-- A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the page. but is used by browsers and search engines to understand and categorize the content of the wed-page such as page description, keywords, author, and viewport settings for responsive design.
+- A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 
 **19.What is the difference between inline and block-level elements?**
 - Inline elements do not start with a new line and only take up as much width as necessary. 
