@@ -133,6 +133,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - 6.XHTML Attributes have quotes mandatory.
 
 **21.Different between html4 and html5?**
+
 **1.Doctype Declaration:**
 - HTML 4 we have to declare a little lengthy code of doctype. 
 - HTML 5 we have to  declare  in short code of doctype <!DOCTYPE html>
