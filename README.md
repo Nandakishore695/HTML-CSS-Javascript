@@ -217,10 +217,7 @@ On a webpage to display some special characters are reserved like
 - ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/42cfd9b2-2da2-4caf-a441-a7ae0a9963b2)
 
 
-**27.It is possible to change an inline element into a block level element?**
-- Yes, it is possible by using css properties display: block;
-
-**28.What is a manifest file in HTML5?**
+**27.What is a manifest file in HTML5?**
 - A Manifest file is a simple text file that tells the browser what to cache and what not to cache. In offline and online mode.
   
 **There are three sections of a Manifest file:**
@@ -228,7 +225,7 @@ On a webpage to display some special characters are reserved like
 - **NETWORK** - Files listed here require a connection to the server, and are never cached.
 - **FALLBACK** - Files listed here specify fallback pages if a page is inaccessible.
 
-**29.Explain the concept of web storage in HTML5?**
+**28.Explain the concept of web storage in HTML5?**
 
 - web applications can store data locally within the client browser. 
 - Before HTML5 version, application data had to be stored in cookies.
