@@ -103,15 +103,15 @@ Some new tags in HTML5 include:
 **17.What is a meta tag?**
 - A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 
-**19.What is the difference between inline and block-level elements?**
+**18.What is the difference between inline and block-level elements?**
 - Inline elements do not start with a new line and only take up as much width as necessary. 
 - Block-level elements always start with a new line and take up the full width.
 
-**20.What is the use of an iframe tag?**
+**19.What is the use of an iframe tag?**
 - iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
 
 
-**21.What is the difference between HTML and XHTML?**
+**20.What is the difference between HTML and XHTML?**
 
 HTML and XHTML Both essential languages for creating web pages.The main difference between them syntax and structure.
 - 1.HTML is Hypertext Markup Language
@@ -132,7 +132,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - 6.HTML Attributes have quotes as optional.
 - 6.XHTML Attributes have quotes mandatory.
 
-**22.Different between html4 and html5?**
+**21.Different between html4 and html5?**
 **1.Doctype Declaration:**
 - HTML 4 we have to declare a little lengthy code of doctype. 
 - HTML 5 we have to  declare  in short code of doctype <!DOCTYPE html>
@@ -149,7 +149,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - HTML4: Limited input types available.
 - HTML5: Introduces new input types like date, time, month, etc.
 
-**23.what is the difference between http and https?**
+**22.what is the difference between http and https?**
 
 The main difference between these two terms http and https.
 
@@ -164,7 +164,7 @@ The main difference between these two terms http and https.
 - This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
 - HTTPS It helps to improve search rankings
 
-**24.What are the Inline and Block-level tags?**
+**23.What are the Inline and Block-level tags?**
 
 Here are the inline tags
 - Anchor      
@@ -197,15 +197,15 @@ Here are the inline tags
 - table
 - Division
   
-**25.What is the basic structure of an HTML document?**
+**24.What is the basic structure of an HTML document?**
 
 ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/e496b060-fcdb-4467-b549-ee74b1d6bbca)
 
-**26.What is the use of the target attribute in the <link> tag?**
+**25.What is the use of the target attribute in the <link> tag?**
 - _blank: It opens the link in a new window.
 - _self: It opens in the same window.
 
-**27.What are HTML Entities?**
+**26.What are HTML Entities?**
 
 On a webpage to display some special characters are reserved like
 - &lt; for <(less than)
@@ -216,10 +216,10 @@ On a webpage to display some special characters are reserved like
 - ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/42cfd9b2-2da2-4caf-a441-a7ae0a9963b2)
 
 
-**28.It is possible to change an inline element into a block level element?**
+**27.It is possible to change an inline element into a block level element?**
 - Yes, it is possible by using css properties display: block;
 
-**29.What is a manifest file in HTML5?**
+**28.What is a manifest file in HTML5?**
 - A Manifest file is a simple text file that tells the browser what to cache and what not to cache. In offline and online mode.
   
 **There are three sections of a Manifest file:**
@@ -227,7 +227,7 @@ On a webpage to display some special characters are reserved like
 - **NETWORK** - Files listed here require a connection to the server, and are never cached.
 - **FALLBACK** - Files listed here specify fallback pages if a page is inaccessible.
 
-**30.Explain the concept of web storage in HTML5?**
+**29.Explain the concept of web storage in HTML5?**
 
 - web applications can store data locally within the client browser. 
 - Before HTML5 version, application data had to be stored in cookies.
