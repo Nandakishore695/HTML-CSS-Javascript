@@ -144,7 +144,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 
 **3.Multimedia Support:**
 - HTML 4 Relying on third-party plugins like Flash for multimedia content.
-- HTML 5 Introduces native support for multimedia with <audio> and <video> tags, reducing the need for third-party plugins.
+- HTML 5 Introduces native support for multimedia with audio and video tags, reducing the need for third-party plugins.
 
 **4.Input Types:**
 - HTML4: Limited input types available.
