@@ -247,4 +247,4 @@ On a webpage to display some special characters are reserved like
 
 **29.What is cookies and how it works?**
 
-- A cookie is a small piece of data that a website stores on a user's device to remember information about the user, such as personalization and tracking user behavior. Generally, email and password are not stored directly in cookies, but instead, the server will create a session ID for session management.
+- A cookie is a small piece of data that a website stores on a user's browser to remember information about the user, such as personalization and tracking user behavior. Generally, email and password are will not stored directly in cookies, instead of that server will create a session ID for session management.
