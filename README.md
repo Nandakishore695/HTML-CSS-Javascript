@@ -244,3 +244,7 @@ On a webpage to display some special characters are reserved like
 - windows.sessionstorage.setItem(key,value);
 - value=windows.sessionstorage.getItem(key);
 - windows.sessionstorage.removeItem(key
+
+**29.What is cookies and how it works?**
+
+- A cookie is a small bit of information that a website stores on your computer. When you revisit the website, your browser sends the information back to the site.
