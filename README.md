@@ -234,7 +234,7 @@ On a webpage to display some special characters are reserved like
 
 **There 2 object :-**
 - **LocalStorage-** for multiple sessions with no expired date.
-- **sessionStorage-** for single session(data is lost when browser is closed).
+- **sessionStorage-** for single session(data is lost when browser is tab closed).
   
 **Example:-**
 - windows.localstorage.setItem(key,value);
