@@ -240,11 +240,22 @@ On a webpage to display some special characters are reserved like
 - windows.localstorage.setItem(key,value);
 - value=windows.localstorage.getItem(key);
 - windows.localstorage.removeItem(key)
-
 - windows.sessionstorage.setItem(key,value);
 - value=windows.sessionstorage.getItem(key);
 - windows.sessionstorage.removeItem(key
 
 **29.What is cookies and how it works?**
 
-- A cookie is a small piece of data that a website stores on a user's browser to remember information about the user, such as personalization and tracking user behavior. Generally, email and password are will not stored directly in cookies, instead of that server will create a session ID for session management.
+- A cookie is a small piece of data that a website stores on a user's browser to remember information about the user, such as personalization and tracking user behaviour. Generally, email and password are will not store directly in cookies, instead of that server will create a session ID for session management.
+
+**30.Explain Different between image and figure tag?**
+
+Both the tags are used to display images on a webpage, but they have different purposes.
+
+-	The image tag is primarily used for embedding images on a webpage.
+-	It is a self-closing tag
+-	Requires the "src" attribute to specify image source.
+-	Optional attributes like "alt," "width," and "height" can be included.
+-	The figure tag is used to group together an image or a video along with a caption.
+-	It Requires a closing tag.
+-	It is used to semantically organize the content of an image.
