@@ -115,23 +115,14 @@ Some new tags in HTML5 include:
 **20.What is the difference between HTML and XHTML?**
 
 HTML and XHTML Both essential languages for creating web pages.The main difference between them syntax and structure.
-- 1.HTML is Hypertext Markup Language
-- 1.XHTML is Extensible Hypertext Markup Language.
-
-- 2.HTML is not a case-sensitive language.
-- 2.XHTML is a case-sensitive language.
-
-- 3.HTML is An application of SGML.
-- 3.XHTML is An application of XML.
-
-- 4.HTML Can function properly without a closing tag.
-- 4.XHTML Can’t function properly without being closed.
-
-- 5.HTML No hard rule on structures of the elements.
-- 5.XHTML Structure of the elements should be followed.
-
-- 6.HTML Attributes have quotes as optional.
-- 6.XHTML Attributes have quotes mandatory.
+| HTML  | XHTML |
+| ------------- | ------------- |
+| HTML is Hypertext Markup Language  | XHTML is Extensible Hypertext Markup Language |
+| It is not a case-sensitive language  | It is a case-sensitive language |
+| It is An application of SGML  | It is An application of XML |
+| It Can function properly without a closing tag | It Can’t function properly without being closed |
+| It No hard rule on structures of the elements | It Structure of the elements should be followed |
+| It Attributes have quotes as optional |  It Attributes have quotes mandatory |
 
 **21.Different between html4 and html5?**
 
@@ -168,36 +159,23 @@ The main difference between these two terms http and https.
 
 **23.What are the Inline and Block-level tags?**
 
-Here are the inline tags
-- Anchor      
-- Bold
-- Italic
-- Image
-- Button
-- Field
-- Break
-- Field Name
-- Span
-- Subscript
-- Superscript
-- textarea
-
-**Here are the block-level tags**
-- Header
-- Footer
-- Section
-- Form
-- Heading1 to Heading6
-- Horizontal 
-- Paragraph
-- Order list
-- Unorder list
-- List item
-- Definition list
-- Definition terms
-- Definition description 
-- table
-- Division
+| Inline tags  | Block-level tags |
+| ------------- | ------------- |
+| Anchor  | Header |
+| Bold  | Footer |
+| Italic  | Section |
+| Image  | Form |
+| Button  | Heading1 to Heading6 |
+| Field  | Horizontal |
+| Break  | Paragraph |
+| Field Name  | Order list |
+| Span  | Unorder list |
+| Subscript  | List item |
+| Superscript  | Definition list |
+| textarea  | Definition terms |
+|   | Definition description |
+|   | Table |
+|   | Division | 
   
 **24.What is the basic structure of an HTML document?**
 
