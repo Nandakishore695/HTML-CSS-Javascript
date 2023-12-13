@@ -237,3 +237,6 @@ Both the tags are used to display images on a webpage, but they have different p
 -	The figure tag is used to group together an image or a video along with a caption.
 -	It Requires a closing tag.
 -	It is used to semantically organize the content of an image.
+
+**31.How to add favicon in webpage?**
+- To add a favicon to a website first save you need to have a favicon image in a suitable format Ensure the image is square and has a resolution of at least 16x16 pixels in the head section add a link tag we have attribute are rel for icon type is format href for source for image
