@@ -240,4 +240,4 @@ Both the tags are used to display images on a webpage, but they have different p
 
 **31.How to add favicon in webpage?**
 
--  To add a favicon to a website in between head tag use the link tag inside of link tag we have attribute are **rel** for icon **type** is format **href** for source for image.
+-  To add a favicon to a website in between head tag use the link tag inside of link tag we have some attribute **rel** for icon **type** is format **href** for source for image.
