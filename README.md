@@ -236,3 +236,8 @@ Both tags are used to display image on a webpage, but they have different purpos
 **31.How to add favicon in webpage?**
 
 -  To add a favicon to a website in between head tag use the link tag inside of link tag we have some attribute **rel** for icon **type** is format **href** for source for image.
+
+**32.Different between div and span?**
+
+- A div element is used for block-level organization and styling of page elements, where as a span element is used for inline organization and styling.
+
