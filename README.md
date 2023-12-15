@@ -228,7 +228,7 @@ On a webpage to display some special characters are reserved like
 
 **30.Explain Different between image and figure tag?**
 
-Both the tags are used to display images on a webpage, but they have different purposes.
+Both tags are used to display image on a webpage, but they have different purposes.
 
 -	The image tag is primarily used for embedding images on a webpage. It is a self-closing tag. Requires the "src" attribute to specify image source. Optional attributes like "alt," "width," and "height" can be included.
 -	The figure tag is used to group together an image or a video along with a caption. It Requires a closing tag. It is used to semantically organize the content of an image.
