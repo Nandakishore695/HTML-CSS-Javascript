@@ -231,7 +231,7 @@ On a webpage to display some special characters are reserved like
 Both tags are used to display image on a webpage, but they have different purposes.
 
 -	An image tag is use to display on a webpage. It is a self-closing tag. Requires the "src" attribute to specify image source. Optional attributes like "alt," "width," and "height" can be included.
--	The figure tag is used to group together an image or a video along with a caption. It Requires a closing tag. It is used to semantically organize the content of an image.
+-	The figure tag is used to group together an image or a video along with a caption. It Requires a closing tag. It is used to semantically organize the content.
 
 **31.How to add favicon in webpage?**
 
