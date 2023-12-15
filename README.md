@@ -25,7 +25,7 @@ New input types offered by HTML5
 There are 3 types of list  
 - Ordered list  :- Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
 - Unordered list :- On the other hand an unordered list displays a list of items without a specific order, and each item is marked with a bullet point.
-- Definition list :- are lists having each list item with a title as well as a description. There can also be multiple descriptions for each of the list items.
+- Definition list :- are lists having each list item with a title as well as a description.
 
 **5.What is a marquee in HTML?**
 - A marquee tag is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
