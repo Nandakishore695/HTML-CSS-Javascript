@@ -109,7 +109,7 @@ Some new tags in HTML5 include:
 - inline-block It’s formatted just like the inline element, where it doesn’t start on a new line. BUT, you can set width and height values.
 
 **19.What is the use of an iframe tag?**
-- iframe stands for "inline frame tag." It's used to embed content from another source (like a different webpage) directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
+- iframe stands for "inline frame tag." It's used to embed content from another source directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
 
 
 **20.What is the difference between HTML and XHTML?**
