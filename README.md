@@ -253,4 +253,9 @@ It has 5 types of links:
 - Bookmark link
 - Email link
 
+**What is fragment identifier in url?**
+- A fragment identifier is used to navigate to a specific section on the same website.
+- Fragment identifier is preceded by a hash symbol.
 
+**What is the purpose of base tag?**
+- The base tag is used for common base url for all relative urls in document and this tag is placed in head tag. 
