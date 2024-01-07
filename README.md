@@ -243,3 +243,14 @@ Both tags are used to display image on a webpage, but they have different purpos
 
 - A div element is used for block-level organize and styling of page, where as a span element is used for inline organize and styling.
 
+**How many types of links in html?**
+
+It has 5 types of links:
+
+- Anchor link
+- External link
+- Image link
+- Bookmark link
+- Email link
+
+
