@@ -289,3 +289,9 @@ It has 5 types of links:
   </body>
 </html>
 ```
+**What are table, tr, th, td elemetns and advantesges & desiadvantages?**
+- Table is the container for the entire table.
+- Tr (table row) is used to define a row in the table.
+- Th (table header) is used to represent the column headers.
+- Td (table data) is used to represents the regular cells in a table.
+- Tables mutiple column's structure is not good for mobile devices(not responsive).
