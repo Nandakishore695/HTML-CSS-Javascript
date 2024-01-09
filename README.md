@@ -295,3 +295,8 @@ It has 5 types of links:
 - Th (table header) is used to represent the column headers.
 - Td (table data) is used to represents the regular cells in a table.
 - Tables mutiple column's structure is not good for mobile devices(not responsive).
+
+**What is the colspan and rospan attribute in html?**
+- The colspan attribute is used to merge multiple cells in horizontally into a single cell.
+- The rowspan attribute is used to merge multiple cells in vertically into a single cell.
+- Colspan and rospan attribute is applicable to th and td tag only.
