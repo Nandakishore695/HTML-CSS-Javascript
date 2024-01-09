@@ -256,6 +256,22 @@ It has 5 types of links:
 **What is fragment identifier in url?**
 - A fragment identifier is used to navigate to a specific section on the same website.
 - Fragment identifier is preceded by a hash symbol.
-
+```
+  <body>
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      
+      <section id="home">
+        <h2>Section Home</h2>
+        <p>This is home page</p>
+      </section>
+                                 
+       <a href="#home">Home</a>
+      <section id="about">
+        <h2>Section Home</h2>
+        <p>This is home page</p>
+      </section>
+  <body/>
+```
 **What is the purpose of base tag?**
 - The base tag is used for common base url for all relative urls in document and this tag is placed in head tag. 
