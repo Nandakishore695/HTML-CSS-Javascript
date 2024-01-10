@@ -243,7 +243,7 @@ Both tags are used to display image on a webpage, but they have different purpos
 
 - A div element is used for block-level organize and styling of page, where as a span element is used for inline organize and styling.
 
-**How many types of links in html?**
+**33.How many types of links in html?**
 
 It has 5 types of links:
 
@@ -253,7 +253,7 @@ It has 5 types of links:
 - Bookmark link
 - Email link
 
-**What is fragment identifier in url?**
+**34.What is fragment identifier in url?**
 - A fragment identifier is used to navigate to a specific section on the same website.
 - Fragment identifier is preceded by a hash symbol.
 ```
@@ -273,7 +273,7 @@ It has 5 types of links:
       </section>
   <body/>
 ```
-**What is the purpose of base tag?**
+**35.What is the purpose of base tag?**
 - The base tag is used for common base url for all relative urls in document and this tag is placed in head tag.
 ```
  <!DOCTYPE html>
@@ -289,14 +289,14 @@ It has 5 types of links:
   </body>
 </html>
 ```
-**What are table, tr, th, td elemetns and advantesges & desiadvantages?**
+**36.What are table, tr, th, td elemetns and advantesges & desiadvantages?**
 - Table is the container for the entire table.
 - Tr (table row) is used to define a row in the table.
 - Th (table header) is used to represent the column headers.
 - Td (table data) is used to represents the regular cells in a table.
 - Tables mutiple column's structure is not good for mobile devices(not responsive).
 
-**What is the colspan and rospan attribute in html?**
+**37.What is the colspan and rospan attribute in html?**
 - The colspan attribute is used to merge multiple cells in horizontally into a single cell.
 - The rowspan attribute is used to merge multiple cells in vertically into a single cell.
 - Colspan and rospan attribute is applicable to th and td tag only.
