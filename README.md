@@ -255,7 +255,7 @@ It has 5 types of links:
 - Bookmark link
 - Email link
 
-**34.What is fragment identifier in url?**
+**34.What is fragment identifier?**
 - A fragment identifier is used to navigate to a specific section on the same website.
 - Fragment identifier is preceded by a hash symbol.
 ```
