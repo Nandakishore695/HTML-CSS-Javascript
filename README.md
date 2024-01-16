@@ -108,7 +108,7 @@ Some new tags in HTML5 include:
 **18.What is the difference between inline, block-level and inline-block elements?**
 - Inline elements doesn’t start with a new line and only take up as much width as necessary. 
 - Block-level elements always start with a new line and take up the full width.
-- inline-block It’s formatted just like the inline element, where it doesn’t start on a new line. BUT, you can set width and height values.
+- inline-block It’s formatted just like the inline element, where it doesn’t start on a new line. but, you can set width and height values.
 
 **19.What is the use of an iframe tag?**
 - iframe stands for "inline frame tag." It's used to embed content from another source directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
