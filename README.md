@@ -35,7 +35,7 @@ There are 3 types of list:
 
 **7.How many ways to write css in HTML?**
 
-There are three ways to write CSS to HTML documents: 
+There are three ways to write CSS in HTML documents: 
 - Inline 
 - Internal 
 - External
