@@ -235,7 +235,7 @@ Both tags are used to display image on a webpage, but they have different purpos
 -	An image tag is use to display on a webpage. It is a self-closing tag. Requires the "src" attribute to specify image source. Optional attributes like "alt," "width," and "height" can be included.
 -	The figure tag is used to group together an image or a video along with a caption. It Requires a closing tag. It is used to semantically organize the content.
 
-**31.How to add favicon in webpage?**
+**31.How to add favicon in website?**
 
 -  To add a favicon to a website in between head tag use the link tag inside of link tag we have some attribute **rel** for icon **type** is format **href** for source for image.
 ```
