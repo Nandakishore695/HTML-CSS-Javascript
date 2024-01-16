@@ -308,4 +308,5 @@ It has 4 types of links:
 - The colspan attribute is used to merge multiple cells in horizontally into a single cell.
 - The rowspan attribute is used to merge multiple cells in vertically into a single cell.
 - Colspan and rospan attribute is applicable to th and td tag only.
-  
+  ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/33bb8a79-9c9b-4095-ba9a-0c1c58d371e6)
+
