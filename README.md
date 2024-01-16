@@ -247,19 +247,23 @@ Both tags are used to display image on a webpage, but they have different purpos
 
 **33.How many types of links in html?**
 
-It has 5 types of links:
-- Anchor link
-- Bookmark link
+It has 4 types of links:
 ```
 <a href="https://www.example.com">Visit Example Website</a> // External link
+
 <a href="https://www.example.com">
   <img src="image.jpg" alt="Example Image"> //Image link
 </a>
+
 <a href="mailto:info@example.com">Send Email</a> //Email link
+
+<a href="#section2">Bookmark Section 2</a> //Bookmark link
+<div id="section2">This is Section 2</div>
+
+<a href="tel:+1234567890">Call Us</a> //Phone link
 ```
-**34.What is fragment identifier?**
-- A fragment identifier is used to navigate to a specific section on the same website.
-- Fragment identifier is preceded by a hash symbol.
+**34.What is Bookmark link?**
+- A bookmark link is used to navigate to a specific section on the same website.
 ```
   <body>
       <a href="#home">Home</a>
