@@ -53,11 +53,13 @@ Doctype  stands for Document Type.It is a way to give  “information” to the 
 
 
 **10.What are the various formatting tags in HTML5?**
-- sub <sub></sub>  
-- sup <sup></sup> 
-- del  <del></del> :in html 5 for underline
-- strong :in html 5 for bold
-- em :in html 5 for italic
+```
+<sup></sup> //Superscript 
+<sub></sub> //Subscript
+<del></del> //strike line
+<strong></strong> //Bold
+<em></em> //Italic
+```
 
 **11.What are the root tags in html?**
 
