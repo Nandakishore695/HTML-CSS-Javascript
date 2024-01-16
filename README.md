@@ -150,7 +150,7 @@ The main difference between these two terms http and https.
 
 **HTTP** (Hypertext Transfer Protocol):
 - HTTP is a protocol used for transferring data over the internet.
-- It is not secure because the data transferred between the client's browser and the website is not encrypted
+- It is not secure because the data transferred between the client and website is not encrypted
 - HTTP is fast compared to HTTPS
   
 **HTTPS** (Hypertext Transfer Protocol Secure):
