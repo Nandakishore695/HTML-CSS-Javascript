@@ -302,7 +302,7 @@ It has 4 types of links:
 - Tr (table row) is used to define a row in the table.
 - Th (table header) is used to represent the column headers names.
 - Td (table data) is used to represents the regular cells in a table.
-- Tables mutiple column's structure is not good for mobile devices(not responsive).
+- Table structure is not good for mobile device(not responsive).
 
 **37.What is the colspan and rospan attribute in html?**
 - The colspan attribute is used to merge multiple cells in horizontally into a single cell.
