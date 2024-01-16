@@ -303,6 +303,37 @@ It has 4 types of links:
 - Th (table header) is used to represent the column headers names.
 - Td (table data) is used to represents the regular cells in a table.
 - Table structure is not good for mobile device(not responsive).
+```
+<table border="1" cellpadding="10" cellspacing="0" width='100%'>
+                <thead>
+                    <tr>
+                        <th colspan="2">S.No</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td rowspan="2">1</td>
+                        <td>Nandakishore</td>
+                        <td>nandakishore695@gmail.com</td>
+                        <td>7893797371</td>
+                    </tr>
+                    <tr>
+
+                        <td>Akshay</td>
+                        <td>akshay@gmail.com</td>
+                        <td>7893797371</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">Total</td>
+                        <td>20</td>
+                    </tr>
+                </tfoot>
+            </table>
+```
 
 **37.What is the colspan and rowspan attribute in html?**
 - The colspan attribute is used to merge multiple cells in horizontally into a single cell.
