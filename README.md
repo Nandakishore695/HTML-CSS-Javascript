@@ -44,12 +44,12 @@ There are three ways to write CSS in HTML documents:
 
 Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
 ```
-<!DOCTYPE HTML PUBLIC > //Versions: - 4 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd" > //Versions: - 4 
 <!DOCTYPE html /> //Versions: - 5
 ```
 
 **9.What is dom in HTML?**
-- DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of Objects. 
+- DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of objects. 
 
 
 **10.What are the various formatting tags in HTML5?**
