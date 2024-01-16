@@ -168,9 +168,9 @@ The main difference between these two terms http and https.
 | Italic  | Section |
 | Image  | Form |
 | Button  | Heading1 to Heading6 |
-| Field  | Horizontal |
+| Input  | Horizontal |
 | Break  | Paragraph |
-| Field Name  | Order list |
+| Label  | Order list |
 | Span  | Unorder list |
 | Subscript  | List item |
 | Superscript  | Definition list |
