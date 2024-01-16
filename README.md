@@ -72,11 +72,10 @@ There are some root tags. Without including these root tags in HTML we can’t c
 - An ID is used to identify a unique element on a web page, while a class is used to identify a group of elements.
 
 **13.What is the purpose of the href attribute in the <a> tag?**
-- href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked. 
-URL (Uniform Resource  Locator) 
+- href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked.URL(Uniform Resource Locator) 
 
 **14.What is the purpose of the src attribute in the <img> tag?**
-- src attribute specifies the source file of the image.
+- src attribute specifies the source file path.
 
 **15.What are some new tags introduced in HTML5?**
 
