@@ -155,7 +155,7 @@ The main difference between these two terms http and https.
   
 **HTTPS** (Hypertext Transfer Protocol Secure):
 - HTTPS is a secure version of HTTP.
-- It uses SSL (Secure Sockets Layer) protocols to encrypt the data transmitted between the client's browser and the website's server.
+- It uses SSL (Secure Sockets Layer) protocols to encrypt the data transmitted between the client and website.
 - This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
 - HTTPS It helps to improve search rankings
 
