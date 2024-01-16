@@ -3,7 +3,7 @@
 **1.What is HTML?**
 - HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
-**2.Difference between link tag <link> and anchor tag <a>?**
+**2.Difference between link and anchor tag?**
 - Link tag :- It is used for linking the external resources file.
 - Anchor tag :- It is used for linking to navigate one web page to another web page and these links are clickable.
 
@@ -22,7 +22,7 @@ New input types offered by HTML5
 
 **4.What are the different types of lists in HTML?**
 
-There are 3 types of list  
+There are 3 types of list:  
 - Ordered list  :- Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
 - Unordered list :- On the other hand an unordered list displays a list of items without a specific order, and each item is marked with a bullet point.
 - Definition list :- are lists having each list item with a title as well as a description.
