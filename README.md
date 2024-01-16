@@ -282,14 +282,14 @@ It has 4 types of links:
   <body/>
 ```
 **35.What is the purpose of base tag?**
-- The base tag is used for common base url for all relative urls in document and this tag is placed in head tag.
+- The base tag is used for common base url for all relative urls within a document and this tag is placed in head tag.
 ```
  <!DOCTYPE html>
 <html>
   <head>
     <title>Hello, World!</title>
     <link rel="stylesheet" href="styles.css" />
-    <base href="https://www/abc.com/"/>
+    <base href="https://www.abc.com/" />
   </head>
   <body>
       <a href="page1.html">Home</a>
