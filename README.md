@@ -141,7 +141,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - HTML 5 Introduces native support for multimedia with audio and video tags, reducing the need for third-party plugins.
 
 **4.Input Types:**
-- HTML4: Limited input types available.
+- HTML4: Limited input types available like text, password, checkbox, radio, submit, reset, hidden.
 - HTML5: Introduces new input types like week, month, time, datetime, datetime-local, color etc.
 
 **22.what is the difference between http and https?**
