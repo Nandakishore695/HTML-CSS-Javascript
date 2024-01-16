@@ -4,8 +4,8 @@
 - HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
 **2.Difference between link tag <link> and anchor tag <a>?**
-- Link tag :- It is used for linking the external resources file. This tag is placed within the head tag.
-- Anchor tag :- It is used for linking to navigate one web page to another web page. This tag is placed within the body tag. and these links are clickable.
+- Link tag :- It is used for linking the external resources file.
+- Anchor tag :- It is used for linking to navigate one web page to another web page and these links are clickable.
 
 **3.What are the new input types in HTML5?**
 
