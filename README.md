@@ -189,7 +189,7 @@ The main difference between these two terms http and https.
 
 **26.What are HTML Entities?**
 
-On a webpage to display some special characters are reserved like
+HTML Entities are special characters used to represent characters that cannot be typed on a keyboard
 - &lt; for <(less than)
 - &gt; for <(greater than)
 - &copy; for <(copyright right)
