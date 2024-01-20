@@ -58,7 +58,7 @@ Doctype  stands for Document Type.It is a way to give  “information” to the 
 <sub></sub> //Subscript
 <del></del> //strike line
 <strong></strong> //Bold
-<em></em> //Italic
+<em></em> //Italic or emphasized
 ```
 
 **11.What are the root tags in html?**
