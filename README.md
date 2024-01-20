@@ -247,7 +247,7 @@ Both tags are used to display image on a webpage, but they have different purpos
 
 **33.How many types of links in html?**
 
-It has 4 types of links:
+It has 5 types of links:
 ```
 <a href="https://www.example.com">Visit Example Website</a> // External link
 
