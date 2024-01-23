@@ -9,7 +9,7 @@
 
 **3.What are the new input types in HTML5?**
 
-New input types offered by HTML5 
+New input types offered by HTML5  
 - type=”week”
 - type=”month”
 - type=”time”
