@@ -358,3 +358,7 @@ p {  color:"pink" } //Element
 ul > li { width:30px } //Child
 a:hover { color:"orange" } //Pseudo-Class
 ```
+**4.What are CSS backgroundsl ist properties?**
+- background-color
+- background-repeat
+- background-image
