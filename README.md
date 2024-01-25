@@ -344,3 +344,17 @@ It has 5 types of links:
 # CSS Interview Question and Answer
 1.**What is css?**
 - CSS stands for Cascading Style Sheets. It is a style sheet language used for desing the presentation of layout html document.
+
+**2.List the CSS Frameworks?**
+- Bootstrap
+- Semantic UI
+- Tailwind CSS
+
+**3.What are CSS Selectors?**
+```
+p {  color:"pink" } //Element
+.my-class {  color:"red" } //Class
+#my-id { color:"blue" } //ID
+ul > li { width:30px } //Child
+a:hover { color:"orange" } //Pseudo-Class
+```
