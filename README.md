@@ -341,3 +341,6 @@ It has 5 types of links:
 - Colspan and rospan attribute is applicable to th and td tag only.
   ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/33bb8a79-9c9b-4095-ba9a-0c1c58d371e6)
 
+# CSS Interview Question and Answer
+1.**What is css?**
+- CSS stands for Cascading Style Sheets. It is a style sheet language used for desing the presentation of layout html document.
