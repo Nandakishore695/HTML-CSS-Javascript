@@ -361,7 +361,14 @@ It has 5 types of links:
 
 # CSS Interview Question and Answer
 1.**What is css?**
-- CSS stands for Cascading Style Sheets. It is a style sheet language used for desing the presentation of layout html document.
+- CSS stands for Cascading Style Sheets. It is a style sheet language which is used with HTML to design websites.
+
+What are the different version of CSS?
+- CSS1
+- CSS2
+- CSS2.1
+- CSS3
+- CSS4
 
 **2.List the CSS Frameworks?**
 - Bootstrap
