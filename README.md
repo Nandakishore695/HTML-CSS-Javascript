@@ -1,7 +1,7 @@
 # HTML Interview Questions and Answers
 
 **1.What is HTML?**
-- HTML stands for Hypertext Markup Language and it also allows us to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
+- HTML stands for Hypertext Markup Language it use to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
 **2.Difference between link and anchor tag?**
 - Link tag :- It is used for linking the external resources file.
