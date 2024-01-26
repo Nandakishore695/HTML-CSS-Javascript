@@ -104,6 +104,24 @@ Some new tags in HTML5 include:
 
 **17.What is a meta tag?**
 - A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> //Special characters to use like ASCII (American Standard Code for Information Interchange) The ASCII code for uppercase 'A' is 65.The ASCII code for lowercase 'a' is 97.The ASCII code for the digit '0' is 48.
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is food description">
+    <meta name="keyword" content="food, food service, food industry">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Nandakishore">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Food4You</title>
+</head>
+<body>
+</body>
+</html>
+```
 
 **18.What is the difference between inline, block-level and inline-block elements?**
 - Inline elements doesn’t start with a new line and only take up as much width as necessary. 
