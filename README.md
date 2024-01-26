@@ -3,106 +3,7 @@
 **1.What is HTML?**
 - HTML stands for Hypertext Markup Language it use to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
-**2.Difference between link and anchor tag?**
-- Link tag :- It is used for linking the external resources file.
-- Anchor tag :- It is used for linking to navigate one web page to another web page and these links are clickable.
-
-**3.What are the new input types in HTML5?**
-
-New input types offered by HTML5  
-- type=”week”
-- type=”month”
-- type=”time”
-- type=”datetime”
-- type=”datetime-local”
-- type=”color”
-- type=”search”
-- type=”range”
-- type=”url”
-
-**4.What are the different types of lists in HTML?**
-
-There are 3 types of list:  
-- Ordered list  :- Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
-- Unordered list :- On the other hand an unordered list to displays a list of items without a specific order, and each item is marked with a bullet point.
-- Definition list :- are lists having each list item with a title as well as a description.
-
-**5.What is a marquee in HTML?**
-- A marquee tag is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
-
-**6.What is the difference between HTML and CSS?**
-- HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
-
-**7.How many ways to write css in HTML?**
-
-There are three ways to write CSS in HTML documents: 
-- Inline 
-- Internal 
-- External
-
-**8. What is doctype in HTML?**
-
-Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
-```
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd" > //Versions: - 4 
-<!DOCTYPE html /> //Versions: - 5
-```
-
-**9.What is dom in HTML?**
-- DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of objects. 
-
-
-**10.What are the various formatting tags in HTML5?**
-```
-<sup></sup> //Superscript 
-<sub></sub> //Subscript
-<del></del> //strike line
-<strong></strong> //Bold
-<em></em> //Italic or emphasized
-```
-
-**11.What are the root tags in html?**
-
-There are some root tags. Without including these root tags in HTML we can’t create web pages.
-- html <html></html>
-- head <head></head>
-- body <body></body>
-
-**12.What is the difference between an ID and a class in HTML?**
-- An ID is used to identify a unique element on a web page, while a class is used to identify a group of elements.
-
-**13.What is the purpose of the href attribute in the <a> tag?**
-- href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked.URL(Uniform Resource Locator) 
-
-**14.What is the purpose of the src attribute in the <img> tag?**
-- src attribute specifies the source file path.
-
-**15.What are some new tags introduced in HTML5?**
-
-Some new tags in HTML5 include:
-- header
-- footer
-- section
-- nav
-- article
-- main
-- aside
-- video
-- audio
-
-**16.What are the attributes in html?**
-- style 
-- href 
-- src 
-- alt 
-- class 
-- Id
-- type
-- value
-- width
-- height
-
-**17.What is a meta tag?**
+**2.What is a meta tag?**
 - A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 ```
 <!DOCTYPE html>
@@ -122,6 +23,105 @@ Some new tags in HTML5 include:
 </body>
 </html>
 ```
+
+**3.Difference between link and anchor tag?**
+- Link tag :- It is used for linking the external resources file.
+- Anchor tag :- It is used for linking to navigate one web page to another web page and these links are clickable.
+
+**4.What are the new input types in HTML5?**
+
+New input types offered by HTML5  
+- type=”week”
+- type=”month”
+- type=”time”
+- type=”datetime”
+- type=”datetime-local”
+- type=”color”
+- type=”search”
+- type=”range”
+- type=”url”
+
+**5.What are the different types of lists in HTML?**
+
+There are 3 types of list:  
+- Ordered list  :- Ordered list It's used when you want to display a list of items in a specific order, and each item is marked with a number.
+- Unordered list :- On the other hand an unordered list to displays a list of items without a specific order, and each item is marked with a bullet point.
+- Definition list :- are lists having each list item with a title as well as a description.
+
+**6.What is a marquee in HTML?**
+- A marquee tag is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
+
+**7.What is the difference between HTML and CSS?**
+- HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
+
+**8.How many ways to write css in HTML?**
+
+There are three ways to write CSS in HTML documents: 
+- Inline 
+- Internal 
+- External
+
+**9.What is doctype in HTML?**
+
+Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
+```
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd" > //Versions: - 4 
+<!DOCTYPE html /> //Versions: - 5
+```
+
+**10.What is dom in HTML?**
+- DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of objects. 
+
+
+**11.What are the various formatting tags in HTML5?**
+```
+<sup></sup> //Superscript 
+<sub></sub> //Subscript
+<del></del> //strike line
+<strong></strong> //Bold
+<em></em> //Italic or emphasized
+```
+
+**12.What are the root tags in html?**
+
+There are some root tags. Without including these root tags in HTML we can’t create web pages.
+- html <html></html>
+- head <head></head>
+- body <body></body>
+
+**13.What is the difference between an ID and a class in HTML?**
+- An ID is used to identify a unique element on a web page, while a class is used to identify a group of elements.
+
+**14.What is the purpose of the href attribute in the <a> tag?**
+- href attribute is used to specify the URL of the hyperlink.It tells the browser where to navigate when the link is clicked.URL(Uniform Resource Locator) 
+
+**15.What is the purpose of the src attribute in the <img> tag?**
+- src attribute specifies the source file path.
+
+**16.What are some new tags introduced in HTML5?**
+
+Some new tags in HTML5 include:
+- header
+- footer
+- section
+- nav
+- article
+- main
+- aside
+- video
+- audio
+
+**17.What are the attributes in html?**
+- style 
+- href 
+- src 
+- alt 
+- class 
+- Id
+- type
+- value
+- width
+- height
 
 **18.What is the difference between inline, block-level and inline-block elements?**
 - Inline elements doesn’t start with a new line and only take up as much width as necessary. 
