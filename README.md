@@ -142,7 +142,9 @@ Some new tags in HTML5 include:
 
 **19.What is the use of an iframe tag?**
 - iframe stands for "inline frame tag." It's used to embed content from another source directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
-
+```
+    <iframe src="https://www.bing.com/" frameborder="0" width="800"></iframe>
+```
 
 **20.What is the difference between HTML and XHTML?**
 
