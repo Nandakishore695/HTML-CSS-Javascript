@@ -181,21 +181,24 @@ The main difference between these two terms http and https.
 
 | Inline tags  | Block-level tags |
 | ------------- | ------------- |
-| Anchor  | Header |
-| Bold  | Footer |
-| Italic  | Section |
-| Image  | Form |
-| Button  | Heading1 to Heading6 |
-| Input  | Horizontal |
-| Break  | Paragraph |
-| Label  | Order list |
-| Span  | Unorder list |
-| Subscript  | List item |
-| Superscript  | Definition list |
-| textarea  | Definition terms |
-|   | Definition description |
-|   | Table |
-|   | Division | 
+| a  | header |
+| strong  | footer |
+| em  | section |
+| img  | form |
+| button  | h1 to h6 |
+| input  | hr |
+| br  | p |
+| label  | ol |
+| span  | ul |
+| sub  | li |
+| sup  | dl |
+| textarea  | dt |
+| script | dd |
+| small  | table |
+|   | div | 
+|   | nav |
+|   | aside |
+|   | video |
   
 **24.What is the basic structure of an HTML document?**
 
