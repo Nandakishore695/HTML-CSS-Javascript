@@ -25,8 +25,8 @@
 ```
 
 **3.Difference between link and anchor tag?**
-- Link tag :- It is used for linking the external resources file.
-- Anchor tag :- It is used for linking to navigate one web page to another web page and these links are clickable.
+- `Link tag`  It is used for linking the external resources file.
+- `Anchor tag` It is used for linking to navigate one web page to another web page and these links are clickable.
 
 **4.What are the new input types in HTML5?**
 
