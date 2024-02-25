@@ -4,7 +4,7 @@
 - `HTML` stands for Hypertext Markup Language it use to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
 **2.What is a meta tag?**
-- A meta tag is an HTML element that provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
+- A meta tag provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 ```
 <!DOCTYPE html>
 <html lang="en">
