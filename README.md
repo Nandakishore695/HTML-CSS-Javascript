@@ -4,7 +4,7 @@
 - `HTML` stands for Hypertext Markup Language it use to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
 **2.What is a meta tag?**
-- A meta tag provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
+- A `meta tag` provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +61,7 @@ There are 3 types of list:
 ```
 
 **6.What is a marquee in HTML?**
-- A marquee tag is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
+- A `marquee tag` is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
 
 **7.What is the difference between HTML and CSS?**
 - HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
@@ -75,7 +75,7 @@ There are three ways to write CSS in HTML documents:
 
 **9.What is doctype in HTML?**
 
-Doctype  stands for Document Type.It is a way to give  “information” to the browser about  html version.
+`Doctype`  stands for Document Type.It is a way to give  “information” to the browser about  html version.
 ```
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd" > //Versions: - 4 
 <!DOCTYPE html /> //Versions: - 5
