@@ -89,7 +89,7 @@ There are three ways to write CSS in HTML documents:
 ```
 <sup></sup> //Superscript 
 <sub></sub> //Subscript
-<del></del> //strike line
+<del></del> //strikethrough
 <strong></strong> //Bold
 <em></em> //Italic or emphasized
 ```
