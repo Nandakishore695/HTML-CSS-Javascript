@@ -122,6 +122,7 @@ Some new tags in HTML5 include:
 - aside
 - video
 - audio
+
 **17.Why we use semantic tags?**
 - For deveveloper easier to read and understand as well as It help the search engines and other user devices to determine the importance and context of web pages
 
