@@ -124,7 +124,7 @@ Some new tags in HTML5 include:
 - audio
 
 **17.Why we use semantic tags?**
-- For deveveloper easier to read and understand as well as It help the search engines and other user devices to determine the importance and context of web pages
+- For deveveloper easier to read and understand as well as It help the search engines.
 
 **18.What are the attributes in html?**
 
