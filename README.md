@@ -266,7 +266,7 @@ HTML Entities are special characters used to represent characters that cannot be
 
 **30.What is cookies and how it works?**
 
-- A cookie is a small piece of data created by a web server  on browser to remember information about the user, such as personalization and tracking user behaviour. Generally, email and password are will not store directly in cookies, instead of that server will create a session ID for session management.
+- A cookie is a small piece of data created by a web server  on browser to remember information about the user and tracking user behaviour. Generally, email and password are will not store directly in cookies, instead of that server will create a session ID for session management.
 
 **31.Explain Different between image and figure tag?**
 
