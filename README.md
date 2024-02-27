@@ -122,8 +122,9 @@ Some new tags in HTML5 include:
 - aside
 - video
 - audio
-
-**17.What are the attributes in html?**
+**17.Why we use semantic tags?**
+- For deveveloper easier to read and understand as well as It help the search engines and other user devices to determine the importance and context of web pages
+**18.What are the attributes in html?**
 - style 
 - href 
 - src 
@@ -135,18 +136,18 @@ Some new tags in HTML5 include:
 - width
 - height
 
-**18.What is the difference between inline, block-level and inline-block elements?**
+**19.What is the difference between inline, block-level and inline-block elements?**
 - Inline elements doesn’t start with a new line and only take up as much width as necessary. 
 - Block-level elements always start with a new line and take up full width.
 - inline-block It’s formatted just like the inline element, where it doesn’t start on a new line. but, you can set width and height values.
 
-**19.What is the use of an iframe tag?**
+**20.What is the use of an iframe tag?**
 - iframe stands for "inline frame tag." It's used to embed content from another source directly into the current webpage. To integrate external resources like web pages, videos, maps, and more into your own page.
 ```
     <iframe src="https://www.bing.com/" frameborder="0" width="800"></iframe>
 ```
 
-**20.What is the difference between HTML and XHTML?**
+**21.What is the difference between HTML and XHTML?**
 
 HTML and XHTML Both essential languages for creating web pages.The main difference between them syntax and structure.
 | HTML  | XHTML |
@@ -158,7 +159,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 | It No hard rule on structures of the elements | It Structure of the elements should be followed |
 | It Attributes have quotes as optional |  It Attributes have quotes mandatory |
 
-**21.Different between html4 and html5?**
+**22.Different between html4 and html5?**
 
 **1.Doctype Declaration:**
 - HTML 4 we have to declare a little lengthy code of doctype. 
@@ -176,7 +177,7 @@ HTML and XHTML Both essential languages for creating web pages.The main differen
 - HTML4: Limited input types available like text, password, email, number, checkbox, radio, submit, reset, hidden.
 - HTML5: Introduces new input types like week, month, time, datetime, datetime-local, color etc.
 
-**22.what is the difference between http and https?**
+**23.what is the difference between http and https?**
 
 The main difference between these two terms http and https.
 
@@ -191,7 +192,7 @@ The main difference between these two terms http and https.
 - This encryption helps protect sensitive information like passwords, credit card numbers, and personal details from being intercepted.
 - HTTPS It helps to improve search rankings
 
-**23.What are the Inline and Block-level tags?**
+**24.What are the Inline and Block-level tags?**
 
 | Inline tags  | Block-level tags |
 | ------------- | ------------- |
@@ -214,15 +215,15 @@ The main difference between these two terms http and https.
 |   | aside |
 |   | video |
   
-**24.What is the basic structure of an HTML document?**
+**25.What is the basic structure of an HTML document?**
 
 ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/e496b060-fcdb-4467-b549-ee74b1d6bbca)
 
-**25.What is the use of the target attribute in the <link> tag?**
+**26.What is the use of the target attribute in the <link> tag?**
 - _blank: It opens the link in a new window.
 - _self: It opens in the same window.
 
-**26.What are HTML Entities?**
+**27.What are HTML Entities?**
 
 HTML Entities are special characters used to represent characters that cannot be typed on a keyboard
 - &lt; for <(less than)
@@ -233,7 +234,7 @@ HTML Entities are special characters used to represent characters that cannot be
 - ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/42cfd9b2-2da2-4caf-a441-a7ae0a9963b2)
 
 
-**27.What is a manifest file in HTML5?**
+**28.What is a manifest file in HTML5?**
 - A Manifest file is a simple text file that tells the browser what to cache and what not to cache. In offline and online mode.
   
 **There are three sections of a Manifest file:**
@@ -241,7 +242,7 @@ HTML Entities are special characters used to represent characters that cannot be
 - **NETWORK** - Files listed here require a connection to the server, and are never cached.
 - **FALLBACK** - Files listed here specify fallback pages if a page is inaccessible.
 
-**28.Explain the concept of web storage in HTML5?**
+**29.Explain the concept of web storage in HTML5?**
 
 - web applications can store data locally within the client browser. 
 - Before HTML5 version, application data had to be stored in cookies.
@@ -259,28 +260,28 @@ HTML Entities are special characters used to represent characters that cannot be
 - value=windows.sessionstorage.getItem(key);
 - windows.sessionstorage.removeItem(key
 
-**29.What is cookies and how it works?**
+**30.What is cookies and how it works?**
 
 - A cookie is a small piece of data that a website stores on a user's browser to remember information about the user, such as personalization and tracking user behaviour. Generally, email and password are will not store directly in cookies, instead of that server will create a session ID for session management.
 
-**30.Explain Different between image and figure tag?**
+**31.Explain Different between image and figure tag?**
 
 Both tags are used to display image on a webpage, but they have different purposes.
 
 -	An image tag is use to display on a webpage. It is a self-closing tag. Requires the "src" attribute to specify image source. Optional attributes like "alt," "width," and "height" can be included.
 -	The figure tag is used to group together an image or a video along with a caption. It Requires a closing tag. It is used to semantically organize the content.
 
-**31.How to add favicon in website?**
+**32.How to add favicon in website?**
 
 -  To add a favicon to a website in between head tag use the link tag inside of link tag we have some attribute **rel** for icon **type** is format **href** for source for image.
 ```
 <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 ```
-**32.Different between div and span?**
+**33.Different between div and span?**
 
 - A div element is used for block-level organize and styling of page, where as a span element is used for inline organize and styling.
 
-**33.How many types of links in html?**
+**34.How many types of links in html?**
 
 It has 5 types of links:
 ```
@@ -297,7 +298,7 @@ It has 5 types of links:
 
 <a href="tel:+1234567890">Call Us</a> //Phone link
 ```
-**34.What is Bookmark link?**
+**35.What is Bookmark link?**
 - A bookmark link is used to navigate to a specific section on the same website.
 ```
   <body>
@@ -316,7 +317,7 @@ It has 5 types of links:
       </section>
   <body/>
 ```
-**35.What is the purpose of base tag?**
+**36.What is the purpose of base tag?**
 - The base tag is used for common base url for all relative urls within a document and this tag is placed in head tag.
 ```
  <!DOCTYPE html>
@@ -332,7 +333,7 @@ It has 5 types of links:
   </body>
 </html>
 ```
-**36.What are table, tr, th, td elemetns and advantesges & desiadvantages?**
+**37.What are table, tr, th, td elemetns and advantesges & desiadvantages?**
 - Table is the container for the entire table.
 - Tr (table row) is used to define a row in the table.
 - Th (table header) is used to represent the column headers names.
@@ -370,7 +371,7 @@ It has 5 types of links:
             </table>
 ```
 
-**37.What is the colspan and rowspan attribute in html?**
+**38.What is the colspan and rowspan attribute in html?**
 - The colspan attribute is used to merge multiple cells in horizontally into a single cell.
 - The rowspan attribute is used to merge multiple cells in vertically into a single cell.
 - Colspan and rospan attribute is applicable to th and td tag only.
