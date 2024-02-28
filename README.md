@@ -385,7 +385,14 @@ It has 5 types of links:
 History of css
 - Cascading Style Sheets.
 
-- what is mean cascading
+**1.what is mean cascading?**
+
+**2.specificity" in CSS?**
+
+**3.what is default postion proferty?**
+
+**4.What different between postion absoult and position relative?**
+
 1.**What is css?**
 - CSS stands for Cascading Style Sheets. It is a style sheet language which is used with HTML to design websites.
 
