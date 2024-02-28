@@ -382,6 +382,10 @@ It has 5 types of links:
   ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/33bb8a79-9c9b-4095-ba9a-0c1c58d371e6)
 
 # CSS Interview Question and Answer
+History of css
+- Cascading Style Sheets.
+
+- what is mean cascading
 1.**What is css?**
 - CSS stands for Cascading Style Sheets. It is a style sheet language which is used with HTML to design websites.
 
