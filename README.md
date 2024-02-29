@@ -396,11 +396,12 @@ It has 5 types of links:
 
 **3.What are CSS Selectors?**
 ```
-p {  color:"pink" } //Element
-.my-class {  color:"red" } //Class
-#my-id { color:"blue" } //ID
-ul > li { width:30px } //Child
-a:hover { color:"orange" } //Pseudo-Class
+p {  color:"pink" } // Type selector
+.my-class {  color:"red" } //Class selector
+#my-id { color:"blue" } //ID selector
+ul > li { width:30px } //Child selector
+input[type='text']{} //Attribute selector
+a:hover { color:"orange" } //Pseudo-Class selector
 ```
 **4.What are CSS backgroundsl ist properties?**
 - background-color
