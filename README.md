@@ -427,6 +427,7 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - Fixed
 - Absolute
 - Relative
+- Static
 
 **1.what is mean cascading?**
 
