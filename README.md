@@ -429,11 +429,14 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - Relative
 - Static
 
+**8.What is default position property in css?**
+- Static position is the default value
+
 **1.what is mean cascading?**
 
 
 **2.specificity" in CSS?**
 
-**3.what is default postion proferty?**
+
 
 **4.What different between postion absoult and position relative?**
