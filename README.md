@@ -424,7 +424,12 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - text-transform: 'uppercase'
 - line-height: '1.5'
 
+**7.What are the various position properties in CSS?**
+
 **1.what is mean cascading?**
+- Fixed
+- Relative
+- Absolute
 
 **2.specificity" in CSS?**
 
