@@ -410,9 +410,8 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - background-image: url("./image.png")
 - background-size: 'cover'
 
-**5.What is margin and padding?**
-- The margin property is used to define the space outside the border of an element.
-- The padding property is used to define the space inside the border of an element.
+**5.What is different between margin and padding?**
+- Both are used to define the space outside the border of an element margin and inside the border of an element padding.
 
 **6.What are text properties in css?**
 - color: '#333'
