@@ -382,26 +382,12 @@ It has 5 types of links:
   ![image](https://github.com/Nandakishore695/HTML-CSS-Demo-Templete-For-Beginners/assets/104244494/33bb8a79-9c9b-4095-ba9a-0c1c58d371e6)
 
 # CSS Interview Question and Answer
-History of css
-- Cascading Style Sheets.
 
-**1.what is mean cascading?**
-
-**2.specificity" in CSS?**
-
-**3.what is default postion proferty?**
-
-**4.What different between postion absoult and position relative?**
+**History of css**
+- Cascading Style Sheets. 1996- The first version of CSS was invented.
 
 1.**What is css?**
 - CSS stands for Cascading Style Sheets. It is a style sheet language which is used with HTML to design websites.
-
-What are the different version of CSS?
-- CSS1
-- CSS2
-- CSS2.1
-- CSS3
-- CSS4
 
 **2.List the CSS Frameworks?**
 - Bootstrap
@@ -420,3 +406,12 @@ a:hover { color:"orange" } //Pseudo-Class
 - background-color
 - background-repeat
 - background-image
+
+
+**1.what is mean cascading?**
+
+**2.specificity" in CSS?**
+
+**3.what is default postion proferty?**
+
+**4.What different between postion absoult and position relative?**
