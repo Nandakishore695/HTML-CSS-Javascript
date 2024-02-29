@@ -414,6 +414,16 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - The margin property is used to define the space outside the border of an element.
 - The padding property is used to define the space inside the border of an element.
 
+**6.What are css text properties?**
+- color: '#333'
+- font-size: '16px'
+- font-weight: 'bold'
+- font-style: 'italic'
+- text-align: 'center'
+- text-decoration: 'underline'
+- text-transform: 'uppercase'
+- line-height: '1.5'
+
 **1.what is mean cascading?**
 
 **2.specificity" in CSS?**
