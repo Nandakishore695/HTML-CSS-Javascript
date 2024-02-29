@@ -405,9 +405,10 @@ input[type='text']{} //Attribute selector
 a:hover { color:"orange" } //Pseudo-Class selector
 ```
 **4.What are CSS backgrounds list properties?**
-- background-color
-- background-repeat
-- background-image
+- background-color: 'pink'
+- background-repeat: 'no-repeat'
+- background-image: url("./image.png")
+- background-size: 'cover'
 
 
 **1.what is mean cascading?**
