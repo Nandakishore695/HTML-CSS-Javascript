@@ -396,6 +396,7 @@ It has 5 types of links:
 
 **3.What are CSS Selectors?**
 ```
+* { background:'pink' } //Universal Selector
 p {  color:"pink" } // Type selector
 .my-class {  color:"red" } //Class selector
 #my-id { color:"blue" } //ID selector
