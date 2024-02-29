@@ -404,7 +404,7 @@ ul > li { width:30px } //Child selector
 input[type='text']{} //Attribute selector
 a:hover { color:"orange" } //Pseudo-Class selector
 ```
-**4.What are CSS backgroundsl ist properties?**
+**4.What are CSS backgrounds list properties?**
 - background-color
 - background-repeat
 - background-image
