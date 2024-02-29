@@ -416,18 +416,18 @@ a:hover { color:"orange" } //Pseudo-Class selector
 
 **6.What are text properties in css?**
 - color: '#333'
+- text-transform: 'uppercase'
+- text-decoration: 'underline'
+- text-align: 'center'
 - font-size: '16px'
 - font-weight: 'bold'
 - font-style: 'italic'
-- text-align: 'center'
-- text-decoration: 'underline'
-- text-transform: 'uppercase'
 - line-height: '1.5'
 
 **7.What are position properties in CSS?**
 - Fixed
-- Relative
 - Absolute
+- Relative
 
 **1.what is mean cascading?**
 
