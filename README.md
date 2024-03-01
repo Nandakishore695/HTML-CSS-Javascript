@@ -433,7 +433,13 @@ a:hover { color:"orange" } //Pseudo-Class selector
 
 **8.What is default position property in css?**
 - Static position is the default value
-
+  
+**9.What are pseudo classes in css?**
+- hover
+- active
+- focus
+- checked
+  
 **9.What is Box model CSS?**
 
 **2.specificity" in CSS?**
