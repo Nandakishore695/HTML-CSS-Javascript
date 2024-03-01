@@ -409,6 +409,7 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - background-repeat: 'no-repeat'
 - background-image: url("./image.png")
 - background-size: 'cover'
+- background-position: center; 
 
 **5.What is different between margin and padding?**
 - Both are used to define space around outside the border of an element margin and inside the border of an element padding.
@@ -433,6 +434,7 @@ a:hover { color:"orange" } //Pseudo-Class selector
 **8.What is default position property in css?**
 - Static position is the default value
 
+**9.What is Box model CSS?**
 
 **2.specificity" in CSS?**
 
