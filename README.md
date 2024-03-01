@@ -411,7 +411,7 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - background-size: 'cover'
 
 **5.What is different between margin and padding?**
-- Both are used to define the space outside the border of an element margin and inside the border of an element padding.
+- Both are used to define space arount outside the border of an element margin and inside the border of an element padding.
 
 **6.What are text properties in css?**
 - color: '#333'
@@ -424,15 +424,14 @@ a:hover { color:"orange" } //Pseudo-Class selector
 - line-height: '1.5'
 
 **7.What are position properties in CSS?**
+- Static
 - Fixed
 - Absolute
 - Relative
-- Static
+- sticky
 
 **8.What is default position property in css?**
 - Static position is the default value
-
-**1.what is mean cascading?**
 
 
 **2.specificity" in CSS?**
