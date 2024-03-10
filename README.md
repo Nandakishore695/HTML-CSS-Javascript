@@ -444,6 +444,9 @@ a:hover { color:"orange" } //Pseudo-Class selector
 
 **2.specificity" in CSS?**
 
+What are breakpoints in responsive design?
+
+
 
 
 **4.What different between postion absoult and position relative?**
