@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Count</title>
+    <style>
+        .number-countNumber::before{
+            font-size: 32px;
+            content: counter(countNumber);
+            animation: counterStage 5s  forwards;
+        }
+        @keyframes counterStage{
+            0%{counter-increment: countNumber 0;}
+            10%{counter-increment: countNumber 1;}
+            20%{counter-increment: countNumber 2;}
+            30%{counter-increment: countNumber 3;}
+            40%{counter-increment: countNumber 4;}
+            50%{counter-increment: countNumber 5;}
+            60%{counter-increment: countNumber 6;}
+            70%{counter-increment: countNumber 7;}
+            80%{counter-increment: countNumber 8;}
+            90%{counter-increment: countNumber 9;}
+            100%{counter-increment: countNumber 10;}
+        }
+    </style>
+</head>
+<body>
+    <P class="number-countNumber">+</P>
+</body>
+</html>
