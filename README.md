@@ -1,9 +1,9 @@
 # HTML Interview Questions and Answers
 
-**1.What is HTML?**
+**1. What is HTML?**
 - `HTML` stands for Hypertext Markup Language it use to create website. It provides a way to structure content on the web by using tags such as headings, paragraphs, links, images, forms and many more.
 
-**2.What is a meta tag?**
+**2. What is a meta tag?**
 - A `meta tag` provides metadata about a web page. The page  information is not displayed on the web page. but is used by browsers and search engines to understand and categorize the content of the page such as page description, keywords, author, and viewport settings for responsive design.
 ```
 <!DOCTYPE html>
@@ -24,7 +24,7 @@
 </html>
 ```
 
-**3.Difference between link and anchor tag?**
+**3. Difference between link and anchor tag?**
 - `Link tag`  It is used for linking the external resources file.
 - `Anchor tag` It is used for linking to navigate one web page to another web page and these links are clickable.
 
@@ -41,12 +41,12 @@ New input types offered by HTML5
 - type=”range”
 - type=”url”
 
-**5.What are the different types of lists in HTML?**
+**5. What are the different types of lists in HTML?**
 
-There are 3 types of list:  
-- `Ordered list`  Ordered list It's used when you want to display a list of items and each item is marked with a number.
-- `Unordered list` On the other hand an unordered list to displays a list of items and each item is marked with a bullet point.
-- `Definition list` are lists having each list item with a title as well as a description.
+There are 3 types of lists:  
+- `Ordered list`  It's used when you want to display a list of items and each item is marked with a number.
+- `Unordered list` On the other hand an unordered list displays a list of items and each item is marked with a bullet point.
+- `Definition list` each list item with a title and a description.
 ```
 <ol type="I">
         <li>Apple</li>
@@ -60,20 +60,20 @@ There are 3 types of list:
 </ul>
 ```
 
-**6.What is a marquee in HTML?**
-- A `marquee tag` is used to make text or images scroll automatically on a web page.However, it's no longer in modern (HTML5)
+**6. What is a marquee in HTML?**
+- A `marquee tag` is used to make text or images scroll automatically on a web page. However, it's no longer in modern (HTML5)
 
-**7.What is the difference between HTML and CSS?**
+**7. What is the difference between HTML and CSS?**
 - HTML is used to display the content on a web page, while CSS is used to control the presentation, layout, and design of a web page.
 
-**8.How many ways to write css in HTML?**
+**8. How many ways to write css in HTML?**
 
 There are three ways to write CSS in HTML documents: 
 - Inline 
 - Internal 
 - External
 
-**9.What is doctype in HTML?**
+**9. What is doctype in HTML?**
 
 `Doctype`  stands for Document Type.It is a way to give  “information” to the browser about  html version.
 ```
@@ -81,7 +81,7 @@ There are three ways to write CSS in HTML documents:
 <!DOCTYPE html /> //Versions: - 5
 ```
 
-**10.What is dom in HTML?**
+**10. What is dom in HTML?**
 - DOM stands for Document Object Model. When a web page is getting loaded that time the browser creates a dom of the page and it is constructed as a tree of objects. 
 
 
