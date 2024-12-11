@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to create a Counter</title>
+</head>
+
+<body>
+    <h1>Simple Counter</h1>
+    <div id="resultNumbers">0</div>
+    <button id="increment" class="button">Increment</button>
+    <button id="reset" class="button">Reset</button>
+    <button id="decrement" class="button">Decrement</button>
+    <script>
+        // let countValue = 0;
+        // const incrementButton = document.querySelector("#increment");
+        // const decrementButton = document.querySelector("#decrement");
+        // const resetButton = document.querySelector("#reset");
+
+        // incrementButton.addEventListener("click", () => {
+        //     document.querySelector("#resultNumbers").innerHTML = countValue++;
+        // });
+
+        // decrementButton.addEventListener("click", () => {
+        //     document.querySelector("#resultNumbers").innerHTML = countValue--;
+        // });
+
+        // resetButton.addEventListener("click", () => {
+        //     document.querySelector("#resultNumbers").innerHTML = 0;
+        // });
+
+        let countValue = 0;
+        let buttons = document.querySelectorAll(".button");
+        buttons.forEach((buttonName) => {
+            if (buttonName.id === "increment") {
+                buttonName.addEventListener("click", () => {
+                    document.querySelector("#resultNumbers").textContent = ++countValue;
+                })
+            }
+            else if (buttonName.id === "decrement") {
+                buttonName.addEventListener("click", () => {
+                    if (!countValue == 0) {
+                        document.querySelector("#resultNumbers").textContent = --countValue;
+                    }
+                })
+            }
+            else if (buttonName.id === "reset") {
+                buttonName.addEventListener("click", () => {
+                    document.querySelector("#resultNumbers").textContent = 0;
+                })
+            }
+        });
+    </script>
+</body>
+
+</html>
