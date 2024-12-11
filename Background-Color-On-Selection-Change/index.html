@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>background-color-Change</title>
+    <style>
+        .container{display: flex; border: 1px solid red; justify-content: center;   }
+        .container button{ margin: 20px; padding: 20px;}
+        .container button:first-child{border: 1px solid black; background-color: grey; width: 50px; height: 50px;}
+        .container button:nth-child(2){border: 1px solid black; background-color: green; width: 50px; height: 50px;}
+        .container button:nth-child(3){border: 1px solid black; background-color: yellow; width: 50px; height: 50px;}
+        .container button:last-child{border: 1px solid black; background-color: pink; width: 50px; height: 50px;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button class="button" id="grey"></button>
+        <button class="button" id="green"></button>
+        <button class="button" id="yellow"></button>
+        <button class="button" id="pink"></button>
+    </div>
+    <script>
+        'use strict'
+        // select all buttons with the class button
+        // const arrylist = document.querySelectorAll('.button');
+
+        // select body for apply background color
+        // const body = document.querySelector('body')
+
+        // arrylist.forEach((button)=>{
+            // selcection button click get id value
+        //     button.addEventListener('click', function(e){
+        //         if(e.target){
+                    // change the body background color
+        //             body.style.backgroundColor = e.target.id;
+        //         } 
+        //     });
+        // });
+
+        const buttons = document.querySelectorAll('.button');
+        const body = document.querySelector('body')
+        for (let index = 0; index < buttons.length; index++) {
+            buttons[index].addEventListener('click',function(e){
+                body.style.backgroundColor = e.target.id;
+            })  
+        };
+    </script>
+</body>
+</html>
