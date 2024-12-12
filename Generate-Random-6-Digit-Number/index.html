@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <input type="text" id="otpNumber">
+        <input type="button" value="Copy" id="copyValues">
+        <input type="button" value="Generate" id="generate">
+    </div>
+
+    <script>
+        document.querySelector("#generate").addEventListener("click",()=>{
+        // Generate a random number using math.random function
+        // math.random function * 10 mean 0 to 10 numbers get if we don't wont zero use plus 1 and value will get 1 to 10
+        // const now = Math.floor(Math.random() * 10) + 1;
+        const now = Math.floor(Math.random() * 900000) + 100000;
+        document.querySelector("#otpNumber").value = now;
+        })
+        document.querySelector("#copyValues").addEventListener("click",()=>{
+            const copyOtp = document.querySelector("#otpNumber").value;
+            navigator.clipboard.writeText(copyOtp);
+        })
+
+    </script>
+</body>
+
+</html>
