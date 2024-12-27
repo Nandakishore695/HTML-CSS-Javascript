@@ -559,9 +559,8 @@ There are many different events in JavaScript are:
 | mouseout |  | onblur ||
 
 
-**11.What is Babel, and why is it used in JavaScript development?**
-
-- Babel is a JavaScript compiler. It is used to convert code from a non-JavaScript language into JavaScript like React code.
+**11. What is Babel, and why is it used in JavaScript development?**
+- Babel is a JavaScript transpiler. It converts code from a non-JavaScript language, such as React code, into JavaScript.
 
 **12.What is scope in javascript?**
 
