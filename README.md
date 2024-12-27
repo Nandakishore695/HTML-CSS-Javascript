@@ -553,10 +553,10 @@ JavaScript provides a variety of string methods that allow you to manipulate and
 There are many different events in JavaScript are:
 | Mouse events | Keyboard events | Form events | Window events|
 | ------------- | ------------- | ------------- |  ------------- |
-| onclick  | onkeyup | onchange | onload |
-| onmouseover  | onkeydown | onfocus | onunload |
-| onmouseout  |  | onsubmit | onresize|
-|  |  | onblur ||
+| click  | keydown | change | load |
+| mouseover  | keyup | focus | nunload |
+| mouseout  |  | submit | resize|
+| dbclick |  | onblur ||
 
 
 **11.What is Babel, and why is it used in JavaScript development?**
