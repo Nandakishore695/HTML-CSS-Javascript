@@ -554,9 +554,9 @@ There are many different events in JavaScript are:
 | Mouse events | Keyboard events | Form events | Window events|
 | ------------- | ------------- | ------------- |  ------------- |
 | click  | keydown | change | load |
-| mouseover  | keyup | focus | nunload |
-| mouseout  |  | submit | resize|
-| dbclick |  | onblur ||
+| dbclick  | keyup | focus | unload |
+| mouseover  |  | submit | resize|
+| mouseout |  | onblur ||
 
 
 **11.What is Babel, and why is it used in JavaScript development?**
