@@ -490,7 +490,7 @@ There are two types of data types in JavaScript:-
 | Undefined | Function |
 | null |  |
 | Symbol | | |
-| BihInt | | |
+| BigInt | | |
 
 - String:- Represents a series of characters. A string can be represented in either single (' ') or double (" ") quotes,  
 
